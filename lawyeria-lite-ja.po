@@ -2,21 +2,25 @@
 # This file is distributed under the same license as the Lawyeria Lite package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-03-28 02:22:27+0000\n"
+"PO-Revision-Date: 2016-04-09 06:09+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: GlotPress/1.1.0-alpha\n"
+"X-Generator: Poedit 1.7.5\n"
 "Project-Id-Version: Lawyeria Lite\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
 
 #. Theme Name of the plugin/theme
 msgid "Lawyeria Lite"
-msgstr ""
+msgstr "Lawyeria Lite"
 
 #. Description of the plugin/theme
 msgid "Lawyeria Lite is a free Lawyer WordPress Theme, super clean corporate and fully responsive design.It works for any small business, especially attorney business and law firm. Can be used to build a lawyer website or any small business site, the responsive homepage contact form along with the email/phone highly visible generate a great conversion rate. You can get free support in https://themeisle.com/forums/forum/lawyeria-lite/ and check the demo at http://themeisle.com/demo/?theme=Lawyeria%20Lite"
-msgstr ""
+msgstr "Lawyeria Lite は無料の弁護士向け WordPress テーマで、とてもクリーンで企業向けの、完全レスポンシブデザインです。あらゆる小規模ビジネス、特に弁護士ビジネスと法律事務所に合います。弁護士の Web サイトを作るのにも、あらゆる小規模ビジネスサイトにも使える、非常に見やすい E メールアドレス・電話番号つきの柔軟なトップページのお問い合わせフォームが、すばらしいコンバージョン率を生み出します。 https://themeisle.com/forums/forum/lawyeria-lite/ での無料サポートが利用可能です。デモは http://themeisle.com/demo/?theme=Lawyeria%20Lite をご覧ください。"
 
 #: class-tgm-plugin-activation.php:3362
 msgid "Updating Plugin %1$s (%2$d/%3$d)"
@@ -24,11 +28,11 @@ msgstr "プラグインの更新: %1$s (%2$d/%3$d)"
 
 #: class-tgm-plugin-activation.php:2643
 msgid "No plugins were selected to be installed. No action taken."
-msgstr ""
+msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
 
 #: class-tgm-plugin-activation.php:2645
 msgid "No plugins were selected to be updated. No action taken."
-msgstr ""
+msgstr "更新するプラグインが選択されていません。何も実行しませんでした。"
 
 #: class-tgm-plugin-activation.php:2681
 msgid "No plugins are available to be installed at this time."
@@ -40,7 +44,7 @@ msgstr "現在更新できるプラグインはありません。"
 
 #: class-tgm-plugin-activation.php:2788
 msgid "No plugins were selected to be activated. No action taken."
-msgstr ""
+msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
 
 #: class-tgm-plugin-activation.php:2814
 msgid "No plugins are available to be activated at this time."
@@ -49,17 +53,17 @@ msgstr "現時点で有効化できるプラグインはありません。"
 #: class-tgm-plugin-activation.php:2491
 msgctxt "%2$s = plugin name in screen reader markup"
 msgid "Install %2$s"
-msgstr "インストール %2$s"
+msgstr "%2$s をインストール"
 
 #: class-tgm-plugin-activation.php:2495
 msgctxt "%2$s = plugin name in screen reader markup"
 msgid "Update %2$s"
-msgstr ""
+msgstr "%2$s を更新"
 
 #: class-tgm-plugin-activation.php:2500
 msgctxt "%2$s = plugin name in screen reader markup"
 msgid "Activate %2$s"
-msgstr "有効化 %2$s"
+msgstr "%2$s を有効化"
 
 #: class-tgm-plugin-activation.php:2570
 msgid "Upgrade message from the plugin author:"
@@ -91,7 +95,7 @@ msgstr "不明"
 
 #: class-tgm-plugin-activation.php:2379
 msgid "Installed version:"
-msgstr "Version : "
+msgstr "インストールされているバージョン:"
 
 #: class-tgm-plugin-activation.php:2387
 msgid "Minimum required version:"
@@ -115,7 +119,7 @@ msgstr "操作を実行しませんでした。プラグイン %1$s はすでに
 
 #: class-tgm-plugin-activation.php:402
 msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
-msgstr ""
+msgstr "プラグインを有効化できませんでした。このテーマには新しいバージョンの %s が必要です。プラグインを更新してください。"
 
 #: class-tgm-plugin-activation.php:405
 msgid "Please contact the administrator of this site for help."
@@ -123,7 +127,7 @@ msgstr "ヘルプが必要な場合はこのサイトの管理者にお問い合
 
 #: class-tgm-plugin-activation.php:520
 msgid "This plugin needs to be updated to be compatible with your theme."
-msgstr ""
+msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
 
 #: class-tgm-plugin-activation.php:521
 msgid "Update Required"
@@ -131,19 +135,19 @@ msgstr "更新する必要があります"
 
 #: class-tgm-plugin-activation.php:635
 msgid "Set the parent_slug config variable instead."
-msgstr ""
+msgstr "代わりに変数 parent_slug を設定してください。"
 
 #: class-tgm-plugin-activation.php:935
 msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
-msgstr ""
+msgstr "リモートプラグインパッケージには、指定されたスラッグのフォルダがないため、名前の変更ができませんでした。"
 
 #: class-tgm-plugin-activation.php:935 class-tgm-plugin-activation.php:938
 msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
-msgstr ""
+msgstr "プラグイン開発者に連絡し、WordPress のガイドラインに従ってプラグインをパッケージ化するように依頼してください。"
 
 #: class-tgm-plugin-activation.php:938
 msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
-msgstr ""
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルは1つのフォルダ内にパッケージされていません。"
 
 #: class-tgm-plugin-activation.php:1116 class-tgm-plugin-activation.php:2828
 msgctxt "plugin A *and* plugin B"
@@ -173,12 +177,12 @@ msgstr "要更新"
 
 #: class-tgm-plugin-activation.php:2227
 msgid "Update recommended"
-msgstr ""
+msgstr "更新を推奨"
 
 #: class-tgm-plugin-activation.php:2235
 msgctxt "%1$s = install status, %2$s = update status"
 msgid "%1$s, %2$s"
-msgstr ""
+msgstr "%1$s, %2$s"
 
 #: class-tgm-plugin-activation.php:2280
 msgctxt "plugins"
@@ -189,7 +193,7 @@ msgstr[0] "すべて <span class=\"count\">(%s)</span>"
 #: class-tgm-plugin-activation.php:347
 msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
 msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
-msgstr[0] ""
+msgstr[0] "申し訳ありませんが、あなたは%1$sプラグインをインストールするための適切な権限がありません。"
 
 #: class-tgm-plugin-activation.php:357
 msgid "There is an update available for: %1$s."
@@ -199,12 +203,12 @@ msgstr[0] "プラグインの更新が利用可能です (%1$s) 。"
 #: class-tgm-plugin-activation.php:362
 msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
 msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
-msgstr[0] ""
+msgstr[0] "申し訳ありませんが、あなたは%1$sプラグインを更新するための適切な権限がありません。"
 
 #: class-tgm-plugin-activation.php:377
 msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
 msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
-msgstr[0] ""
+msgstr[0] "申し訳ありませんが、あなたは%1$sプラグインを有効化するための適切な権限がありません。"
 
 #: class-tgm-plugin-activation.php:387
 msgid "Begin updating plugin"
@@ -230,9 +234,8 @@ msgstr "プロ版を表示"
 
 #: includes/customizer.php:378
 msgid "Leave a review ( it will help us )"
-msgstr ""
+msgstr "レビューを書く (私たちの手助けになります)"
 
-#. #-#-#-#-#  lawyeria-lite.pot (Lawyeria Lite 1.1.6)  #-#-#-#-#
 #. Template Name of the plugin/theme
 #: index.php:12
 msgid "Blog"
@@ -240,11 +243,11 @@ msgstr "ブログ"
 
 #: includes/customizer.php:304
 msgid "404 - Title:"
-msgstr ""
+msgstr "404-タイトル:"
 
 #: includes/customizer.php:314
 msgid "404 - Content"
-msgstr ""
+msgstr "404-コンテンツ"
 
 #: includes/customizer.php:376
 msgid "Documentation"
@@ -252,116 +255,116 @@ msgstr "ドキュメンテーション"
 
 #: includes/customizer.php:103
 msgid "Lorem ipsum dolor sit amet, consectetur adipscing elit."
-msgstr ""
+msgstr "吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。"
 
 #: includes/customizer.php:105
 msgid "Subheader Title:"
-msgstr ""
+msgstr "サブヘッダーのタイトル:"
 
 #: includes/customizer.php:113
 msgid "Ut fermentum aliquam neque, sit amet molestie orci porttitor sit amet. Mauris venenatis et tortor ut ultrices. Nam a neque venenatis, tristique lacus id, congue augue. In id tellus lacus. In porttitor sagittis tellus nec iaculis. Nunc sem odio, placerat a diam vel, varius."
-msgstr ""
+msgstr "何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞くとそれは書生という人間中で一番獰悪どうあくな種族であったそうだ。この書生というのは時々我々を捕つかまえて煮にて食うという話である。しかしその当時は何という考もなかったから別段恐しいとも思わなかった。"
 
 #: includes/customizer.php:115
 msgid "Subheader Content:"
-msgstr ""
+msgstr "サブヘッダーのコンテンツ:"
 
 #: includes/customizer.php:125
 msgid "Lorem Ipsum is simply dummy text of the printing and type setting industry."
-msgstr ""
+msgstr "『吾輩は猫である』は、夏目漱石の長編小説であり、処女小説である。"
 
 #: includes/customizer.php:127
 msgid "Quote:"
-msgstr ""
+msgstr "引用:"
 
 #: includes/customizer.php:136
 msgid "Subheader Background:"
-msgstr ""
+msgstr "サブヘッダーの背景:"
 
 #: includes/customizer.php:146
 msgid "Box (first) - Icon:"
-msgstr ""
+msgstr "ボックス1 - アイコン:"
 
 #: includes/customizer.php:154
 msgid "Lorem"
-msgstr ""
+msgstr "吾輩は"
 
 #: includes/customizer.php:156
 msgid "Box (first) - Title:"
-msgstr ""
+msgstr "ボックス1 - タイトル:"
 
 #: includes/customizer.php:164 includes/customizer.php:196
 #: includes/customizer.php:228
 msgid "Go to Appearance - Customize, to add content."
-msgstr ""
+msgstr "「外観」>「カスタマイズ」からコンテンツを追加します。"
 
 #: includes/customizer.php:166
 msgid "Box (first) - Content:"
-msgstr ""
+msgstr "ボックス1 - 本文:"
 
 #: includes/customizer.php:178
 msgid "Box (two) - Icon:"
-msgstr ""
+msgstr "ボックス2 - アイコン:"
 
 #: includes/customizer.php:186
 msgid "Ipsum"
-msgstr ""
+msgstr "猫である"
 
 #: includes/customizer.php:188
 msgid "Box (two) - Title:"
-msgstr ""
+msgstr "ボックス2 - タイトル:"
 
 #: includes/customizer.php:198
 msgid "Box (two) - Content:"
-msgstr ""
+msgstr "ボックス2 - 本文:"
 
 #: includes/customizer.php:210
 msgid "Box (three) - Icon:"
-msgstr ""
+msgstr "ボックス3 - アイコン:"
 
 #: includes/customizer.php:218
 msgid "Dolor"
-msgstr ""
+msgstr "名前は"
 
 #: includes/customizer.php:220
 msgid "Box (three) - Title:"
-msgstr ""
+msgstr "ボックス3 - タイトル:"
 
 #: includes/customizer.php:230
 msgid "Box (three) - Content:"
-msgstr ""
+msgstr "ボックス3 - アイコン:"
 
 #: includes/customizer.php:242
 msgid "The Content - Image:"
-msgstr ""
+msgstr "コンテンツ - 画像:"
 
 #: includes/customizer.php:250
 msgid "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis."
-msgstr ""
+msgstr "ふと気が付いて見ると書生はいない。たくさんおった兄弟が一疋ぴきも見えぬ。"
 
 #: includes/customizer.php:252
 msgid "The Content - Title:"
-msgstr ""
+msgstr "コンテンツ - タイトル:"
 
 #: includes/customizer.php:260
 msgid "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim."
-msgstr ""
+msgstr "肝心かんじんの母親さえ姿を隠してしまった。その上今いままでの所とは違って無暗むやみに明るい。眼を明いていられぬくらいだ。はてな何でも容子ようすがおかしいと、のそのそ這はい出して見ると非常に痛い。吾輩は藁わらの上から急に笹原の中へ棄てられたのである。ようやくの思いで笹原を這い出すと向うに大きな池がある。吾輩は池の前に坐ってどうしたらよかろうと考えて見た。別にこれという分別ふんべつも出ない。しばらくして泣いたら書生がまた迎に来てくれるかと考え付いた。ニャー、ニャーと試みにやって見たが誰も来ない。そのうち池の上をさらさらと風が渡って日が暮れかかる。腹が非常に減って来た。泣きたくても声が出ない。仕方がない、何でもよいから食物くいもののある所まであるこうと決心をしてそろりそろりと池を左ひだりに廻り始めた。"
 
 #: includes/customizer.php:262
 msgid "The Content - Content:"
-msgstr ""
+msgstr "コンテンツ - コンテンツ:"
 
 #: includes/customizer.php:275
 msgid "Frontpage widgets"
-msgstr ""
+msgstr "フロントページウィジェット"
 
 #: includes/customizer.php:276
 msgid " Check out the <a href=\"https://themeisle.com/themes/lawyeria-attorney-lawyer-wordpress-theme/\" target=\"_blank\" style=\"color:red;\">PRO version</a> <br>for custom widgets like \"Practice Area\", \"Our Lawyers\" and \"Testimonials\"!  "
-msgstr ""
+msgstr "<a href=\"https://themeisle.com/themes/lawyeria-attorney-lawyer-wordpress-theme/\" target=\"_blank\" style=\"color:red;\">PRO バージョン</a>の「事例エリア」「弁護士」「お客様の声」といった<br>カスタムウィジェットをチェックする。"
 
 #: includes/customizer.php:296
 msgid "404 Page"
-msgstr ""
+msgstr "404ページ"
 
 #: includes/customizer.php:302
 msgid "404 Error"
@@ -369,19 +372,19 @@ msgstr "404エラー"
 
 #: includes/customizer.php:67
 msgid "Logo:"
-msgstr ""
+msgstr "ロゴ:"
 
 #: includes/customizer.php:75
 msgid "Contact us now"
-msgstr ""
+msgstr "今すぐお問い合わせ"
 
 #: includes/customizer.php:77
 msgid "Contact Title:"
-msgstr ""
+msgstr "お問い合わせのタイトル:"
 
 #: includes/customizer.php:87
 msgid "Contact telephone:"
-msgstr ""
+msgstr "お問い合わせの電話番号:"
 
 #: includes/customizer.php:97
 msgid "Front Page"
@@ -389,7 +392,7 @@ msgstr "フロントページ"
 
 #: includes/customizer.php:24
 msgid "ThemeIsle theme notes"
-msgstr ""
+msgstr "ThemeIsle テーマからのお知らせ"
 
 #: includes/customizer.php:25
 msgid ""
@@ -397,14 +400,17 @@ msgid ""
 "\t\t<br/><br/> <a href=\"http://demo.themeisle.com/lawyeria-lite/\" target=\"_blank\"> View Theme Demo</a> | \n"
 "\t\t<a href=\"http://themeisle.com/forums/forum/lawyeria-lite\" target=\"_blank\">Get theme support</a><br/><br/><a href=\"http://themeisle.com/documentation-lawyeria-lite\" target=\"_blank\">Documentation</a><br><br><a href=\"https://themeisle.com/themes/lawyeria-attorney-lawyer-wordpress-theme/\" target=\"_blank\" style=\"color:red;\">Upgrade to PRO</a> "
 msgstr ""
+"テーマのご利用ありがとうございます！私たちは、ThemeIsle を本当に誰かが使ってくれるかどうかわからないまま、6ヶ月を費やして制作しました。あなたが私たちと一緒に取り組んでいただくことを決めていただき本当に光栄です。ぜひ<a href=\"http://themeisle.com/contact/\" target=\"_blank\">声をかけてください</a>。\n"
+"\t\t<br/><br/> <a href=\"http://demo.themeisle.com/lawyeria-lite/\" target=\"_blank\">テーマのデモを見る</a> | \n"
+"\t\t<a href=\"http://themeisle.com/forums/forum/lawyeria-lite\" target=\"_blank\">テーマのサポートを受ける</a><br/><br/><a href=\"http://themeisle.com/documentation-lawyeria-lite\" target=\"_blank\">ドキュメンテーション</a><br><br><a href=\"https://themeisle.com/themes/lawyeria-attorney-lawyer-wordpress-theme/\" target=\"_blank\" style=\"color:red;\">PRO 版にアップグレード</a> "
 
 #: includes/customizer.php:41
 msgid "Unlimited colors"
-msgstr ""
+msgstr "無限の色"
 
 #: includes/customizer.php:42
 msgid " Check out the <a href=\"https://themeisle.com/themes/lawyeria-attorney-lawyer-wordpress-theme/\" target=\"_blank\" style=\"color:red;\">PRO version</a> <br>for full control over the color scheme !  "
-msgstr ""
+msgstr "<a href=\"https://themeisle.com/themes/lawyeria-attorney-lawyer-wordpress-theme/\" target=\"_blank\" style=\"color:red;\">PRO バージョン</a>の、配色のフルコントロールをチェックする。"
 
 #: includes/customizer.php:59
 msgid "Header"
@@ -412,7 +418,7 @@ msgstr "ヘッダー"
 
 #: header.php:66
 msgid "Open Menu"
-msgstr ""
+msgstr "メニューを開く"
 
 #: functions.php:387
 msgid "Page %s"
@@ -424,7 +430,7 @@ msgstr "全てのプラグインのインストール・有効化が完了しま
 
 #: class-tgm-plugin-activation.php:336 functions.php:348
 msgid "Something went wrong with the plugin API."
-msgstr "plugin API　で問題が発生しました"
+msgstr "プラグイン API で問題が発生しました。"
 
 #: functions.php:225
 msgid "Your comment is awaiting moderation."
@@ -436,7 +442,7 @@ msgstr "編集"
 
 #: functions.php:213
 msgid "<span>%s</span>"
-msgstr ""
+msgstr "<span>%s</span>"
 
 #: functions.php:216
 msgid "%1$s at %2$s"
@@ -456,11 +462,11 @@ msgstr "on"
 
 #: functions.php:158
 msgid "General Sidebar"
-msgstr ""
+msgstr "一般サイドバー"
 
 #: functions.php:159
 msgid "Use this sidebar to display widgets in your website, including posts and pages."
-msgstr ""
+msgstr "このサイドバーを使用して、Web サイトにウィジェットを表示します。投稿や固定ページを含みます。"
 
 #: functions.php:178
 msgid "Footer Sidebar"
@@ -468,7 +474,7 @@ msgstr "フッターサイドバー"
 
 #: functions.php:179
 msgid "In this sidebar you cand add max. three widgets."
-msgstr ""
+msgstr "このサイドバーには最大3つのウィジェットが登録できます。"
 
 #: functions.php:203
 msgid "Pingback:"
@@ -476,7 +482,7 @@ msgstr "ピンバック:"
 
 #: functions.php:27
 msgid "This menu will appear in header."
-msgstr ""
+msgstr "このメニューは、ヘッダーに表示されます。"
 
 #. Translators: If there are characters in your language that are not supported
 #. by Lora, translate this to 'off'. Do not translate into your own language.
@@ -487,11 +493,11 @@ msgstr "on"
 
 #: comments.php:85
 msgid "Leave a comment to %s"
-msgstr ""
+msgstr "%s にコメントを残す"
 
 #: footer.php:15
 msgid "The sidebar is not active."
-msgstr ""
+msgstr "サイドバーは無効です。"
 
 #: footer.php:19
 msgid "powered by"
@@ -719,11 +725,11 @@ msgstr "必要なプラグインをインストールする"
 
 #: archive.php:67 index.php:52 search.php:52
 msgid "Prev"
-msgstr "Prev"
+msgstr "前へ"
 
 #: archive.php:68 index.php:53 page-blog.php:64 search.php:53
 msgid "Next"
-msgstr "次ページへ"
+msgstr "次へ"
 
 #: archive.php:64 attachment.php:27 front-page.php:33 index.php:49
 #: page-blog.php:59 page.php:33 search.php:49 single.php:57
@@ -740,15 +746,15 @@ msgstr "%件のコメント"
 
 #: archive.php:47 index.php:32 page-blog.php:42 search.php:32 single.php:27
 msgid "Posted by:"
-msgstr ""
+msgstr "投稿者 :"
 
 #: archive.php:47 index.php:32 page-blog.php:42 search.php:32 single.php:27
 msgid "In category:"
-msgstr ""
+msgstr "カテゴリー:"
 
 #: archive.php:47 index.php:32 page-blog.php:42 search.php:32 single.php:27
 msgid "No responses"
-msgstr ""
+msgstr "フィードバックはありません"
 
 #: archive.php:47 index.php:32 page-blog.php:42 search.php:32 single.php:27
 msgid "One comment"
@@ -764,7 +770,7 @@ msgstr "カテゴリー:"
 
 #: archive.php:21
 msgid "Yearly Archives: %s."
-msgstr ""
+msgstr "年別アーカイブ: %s"
 
 #: archive.php:21
 msgctxt "yearly archives date format"
@@ -786,7 +792,7 @@ msgstr "日別アーカイブ: %s"
 
 #. Theme URI of the plugin/theme
 msgid "https://themeisle.com/themes/lawyeria-lite/"
-msgstr ""
+msgstr "https://themeisle.com/themes/lawyeria-lite/"
 
 #. Author of the plugin/theme
 msgid "ThemeIsle"

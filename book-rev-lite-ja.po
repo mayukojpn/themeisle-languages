@@ -2,29 +2,33 @@
 # This file is distributed under the same license as the Book Rev Lite package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-03-28 02:22:27+0000\n"
+"PO-Revision-Date: 2016-04-11 02:05+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: GlotPress/1.1.0-alpha\n"
+"X-Generator: Poedit 1.7.5\n"
 "Project-Id-Version: Book Rev Lite\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
 
 #. Theme Name of the plugin/theme
 msgid "Book Rev Lite"
-msgstr ""
+msgstr "Book Rev Lite"
 
 #. Description of the plugin/theme
 msgid "Book Rev Lite is a free book review WordPress Theme. The responsive, clean and modern design includes tools for presenting your books/products in a beautiful way, you can easily add adsense ads, google fonts, custom colors, slider support and the pro version has also ecommerce ( Woocommerce ) integration.Works great for product review and amazon affiliate sites."
-msgstr ""
+msgstr "Book Rev Lite は無料の書評用 WordPress テーマです。レスポンシブでクリーン、現代的なデザインに書籍・商品を美しく紹介するツールを備えており、簡単にアドセンス広告、Google フォント、色のカスタマイズとスライダーの追加をサポート、さらに有料版では WooCommerce によるネットショップ作成機能も備えています。商品レビューやアマゾンのアフェリエイトサイトにぴったりです。"
 
 #: class-tgm-plugin-activation.php:2643
 msgid "No plugins were selected to be installed. No action taken."
-msgstr ""
+msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
 
 #: class-tgm-plugin-activation.php:2645
 msgid "No plugins were selected to be updated. No action taken."
-msgstr ""
+msgstr "更新するプラグインが選択されていません。何も実行しませんでした。"
 
 #: class-tgm-plugin-activation.php:2681
 msgid "No plugins are available to be installed at this time."
@@ -36,7 +40,7 @@ msgstr "現在更新できるプラグインはありません。"
 
 #: class-tgm-plugin-activation.php:2788
 msgid "No plugins were selected to be activated. No action taken."
-msgstr ""
+msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
 
 #: class-tgm-plugin-activation.php:2814
 msgid "No plugins are available to be activated at this time."
@@ -54,7 +58,7 @@ msgstr "インストール %2$s"
 #: class-tgm-plugin-activation.php:2495
 msgctxt "%2$s = plugin name in screen reader markup"
 msgid "Update %2$s"
-msgstr ""
+msgstr "%2$s を更新"
 
 #: class-tgm-plugin-activation.php:2500
 msgctxt "%2$s = plugin name in screen reader markup"
@@ -119,12 +123,12 @@ msgstr "要更新"
 
 #: class-tgm-plugin-activation.php:2227
 msgid "Update recommended"
-msgstr ""
+msgstr "更新を推奨"
 
 #: class-tgm-plugin-activation.php:2235
 msgctxt "%1$s = install status, %2$s = update status"
 msgid "%1$s, %2$s"
-msgstr ""
+msgstr "%1$s, %2$s"
 
 #: class-tgm-plugin-activation.php:2280
 msgctxt "plugins"
@@ -135,7 +139,7 @@ msgstr[0] "すべて <span class=\"count\">(%s)</span>"
 #: class-tgm-plugin-activation.php:347
 msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
 msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
-msgstr[0] ""
+msgstr[0] "あなたは%1$sプラグインをインストールするための適切な権限がありません。"
 
 #: class-tgm-plugin-activation.php:405
 msgid "Please contact the administrator of this site for help."
@@ -149,12 +153,12 @@ msgstr[0] "プラグインの更新が利用可能です (%1$s) 。"
 #: class-tgm-plugin-activation.php:362
 msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
 msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
-msgstr[0] ""
+msgstr[0] "あなたは%1$sプラグインを更新するための適切な権限がありません。"
 
 #: class-tgm-plugin-activation.php:377
 msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
 msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
-msgstr[0] ""
+msgstr[0] "あなたは%1$sプラグインを有効化するための適切な権限がありません。"
 
 #: class-tgm-plugin-activation.php:387
 msgid "Begin updating plugin"
@@ -167,15 +171,15 @@ msgstr "操作を実行しませんでした。プラグイン %1$s はすでに
 
 #: class-tgm-plugin-activation.php:402
 msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
-msgstr ""
+msgstr "プラグインを有効化できませんでした。このテーマには新しいバージョンの %s が必要です。プラグインを更新してください。"
 
 #: class-tgm-plugin-activation.php:935
 msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
-msgstr ""
+msgstr "リモートプラグインパッケージには、指定されたスラッグのフォルダがないため、名前の変更ができませんでした。"
 
 #: class-tgm-plugin-activation.php:520
 msgid "This plugin needs to be updated to be compatible with your theme."
-msgstr ""
+msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
 
 #: class-tgm-plugin-activation.php:521
 msgid "Update Required"
@@ -183,15 +187,15 @@ msgstr "更新する必要があります"
 
 #: class-tgm-plugin-activation.php:635
 msgid "Set the parent_slug config variable instead."
-msgstr ""
+msgstr "代わりに変数 parent_slug を設定してください。"
 
 #: class-tgm-plugin-activation.php:935 class-tgm-plugin-activation.php:938
 msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
-msgstr ""
+msgstr "プラグイン開発者に連絡し、WordPress のガイドラインに従ってプラグインをパッケージ化するように依頼してください。"
 
 #: class-tgm-plugin-activation.php:938
 msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
-msgstr ""
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルは1つのフォルダ内にパッケージされていません。"
 
 #: class-tgm-plugin-activation.php:1116 class-tgm-plugin-activation.php:2828
 msgctxt "plugin A *and* plugin B"
@@ -217,7 +221,7 @@ msgstr "続きを読む"
 
 #: templates/bookrev_review_wrap_up_template.php:9
 msgid "Wrap Up"
-msgstr ""
+msgstr "折り返し"
 
 #: templates/bookrev_slider_template.php:80
 msgid "1 Comment"
@@ -225,7 +229,7 @@ msgstr "1件のコメント"
 
 #: templates/bookrev_comments_cb_template.php:57
 msgid " at "
-msgstr ""
+msgstr " at "
 
 #: templates/bookrev_comments_cb_template.php:65
 msgid "Your comment is awaiting moderation."
@@ -251,11 +255,11 @@ msgstr ", "
 
 #: index.php:49
 msgid "There are no search results for: %s"
-msgstr ""
+msgstr "検索しても見つかりませんでした: %s"
 
 #: searchform.php:5
 msgid "Search for something"
-msgstr ""
+msgstr "検索する"
 
 #: single.php:35
 msgid "Tags: "
@@ -271,135 +275,135 @@ msgstr "ロゴの高さ"
 
 #: inc/cc_settings.php:1208
 msgid "Main Page"
-msgstr ""
+msgstr "メインページ"
 
 #: inc/cc_settings.php:1210
 msgid "Here you can customize the way you want your main page to look and choose a predefined template for it."
-msgstr ""
+msgstr "ここではメインページをお好みに設定できるよう、用意されたテンプレートを選択します。"
 
 #: inc/cc_settings.php:1232
 msgid "Display Slider"
-msgstr ""
+msgstr "スライダーを表示"
 
 #: inc/cc_settings.php:1256
 msgid "Display Featured Category Block"
-msgstr ""
+msgstr "特集カテゴリーブロックを表示"
 
 #: inc/cc_settings.php:1280
 msgid "Display Latest Articles Carousel Block"
-msgstr ""
+msgstr "最新記事カルーセルブロックを表示"
 
 #: inc/cc_settings.php:1304
 msgid "Display Highlight of the Day Block"
-msgstr ""
+msgstr "今日のハイライトブロックを表示"
 
 #: inc/cc_settings.php:1336
 msgid "Slider Reviews Category"
-msgstr ""
+msgstr "スライダーのレビューカテゴリー"
 
 #: inc/cc_settings.php:1370
 msgid "Featured Category Block Category"
-msgstr ""
+msgstr "特集カテゴリーブロックのカテゴリー"
 
 #: inc/cc_settings.php:1404
 msgid "Highlight of the Day Category"
-msgstr ""
+msgstr "今日のハイライトカテゴリー"
 
 #: inc/cc_settings.php:1426
 msgid "Highlight of the Day"
-msgstr ""
+msgstr "今日のハイライト"
 
 #: inc/cc_settings.php:1440
 msgid "Highlight of the Day Title"
-msgstr ""
+msgstr "今日のハイライトタイトル"
 
 #: inc/cc_settings.php:1460
 msgid "Featured from {{category_selected}}"
-msgstr ""
+msgstr " {{category_selected}} からの特集"
 
 #: inc/cc_settings.php:1474
 msgid "Featured Category Block Title"
-msgstr ""
+msgstr "特集カテゴリーブロックのタイトル"
 
 #: inc/cc_settings.php:1496
 msgid "Latest Reviews"
-msgstr ""
+msgstr "最新のレビュー"
 
 #: inc/cc_settings.php:1512
 msgid "Latest Articles Block Title"
-msgstr ""
+msgstr "最新の記事ブロックのタイトル"
 
 #: inc/cc_settings.php:1546
 msgid "Latest Articles Block Category"
-msgstr ""
+msgstr "最新の記事ブロックのカテゴリー"
 
 #: inc/cc_settings.php:1568 inc/cc_settings.php:1648
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: inc/cc_settings.php:1582 inc/cc_settings.php:1662
 msgid "Latest Articles Block - Article Count"
-msgstr ""
+msgstr "最新の記事ブロック - 記事数"
 
 #: inc/cc_settings.php:1620
 msgid "Layout Type"
-msgstr ""
+msgstr "レイアウトの種類"
 
 #: inc/cc_settings.php:1686
 msgid "Main Page Background Colors"
-msgstr ""
+msgstr "メイン ページの背景色"
 
 #: inc/cc_settings.php:1688
 msgid "For more color customization options check out the <a href='https://themeisle.com/themes/bookrev/'>PRO version</a>!"
-msgstr ""
+msgstr "<a href='https://themeisle.com/themes/bookrev/'>PRO バージョン</a>のその他のカラー設定をチェックする。"
 
 #: inc/cc_settings.php:1734
 msgid "Featured Category Block Background Color "
-msgstr ""
+msgstr "特集カテゴリーブロックの背景色 "
 
 #: inc/cc_settings.php:1784
 msgid "Latest Articles Block Background Color "
-msgstr ""
+msgstr "最新記事ブロックの背景色 "
 
 #: inc/cc_settings.php:1834
 msgid "Latest Articles Block Item Hover Background Color "
-msgstr ""
+msgstr "最新記事ブロック項目のホバー時の背景色 "
 
 #: inc/cc_settings.php:1884
 msgid "Highlight of the Day Block Background Color "
-msgstr ""
+msgstr "今日のハイライトブロックの背景色"
 
 #: inc/cc_settings.php:1934
 msgid "Articles Background Color "
-msgstr ""
+msgstr "記事の背景色 "
 
 #: inc/cc_settings.php:1984
 msgid "Pagination Background Color "
-msgstr ""
+msgstr "ページ送りの背景色 "
 
 #: inc/cc_settings.php:2034
 msgid "Pagination Button Color "
-msgstr ""
+msgstr "ページ送りボタンの色 "
 
 #: inc/cc_settings.php:2084
 msgid "Pagination Button Color Hover "
-msgstr ""
+msgstr "ページ送りボタンのホバー時の色 "
 
 #: inc/cc_settings.php:2134
 msgid "Pagination Button Color Active "
-msgstr ""
+msgstr "ページ送りボタンのアクティブ時の色 "
 
 #: inc/cc_settings.php:2184
 msgid "Block Header Background Color "
-msgstr ""
+msgstr "ブロックヘッダーの背景色 "
 
 #: inc/cc_settings.php:2234
 msgid "Widget Header Background Color "
-msgstr ""
+msgstr "ウィジェットヘッダーの背景色 "
 
 #: inc/cc_settings.php:2284
 msgid "Widget Header Top Border Color "
-msgstr ""
+msgstr "ウィジェットヘッダー上部ボーダーの背景色 "
 
 #: inc/cc_settings.php:2306
 msgid "Typography"
@@ -407,19 +411,19 @@ msgstr "文字装飾"
 
 #: inc/cc_settings.php:2308
 msgid "Change the typography of your theme and the color of your content the way you want."
-msgstr ""
+msgstr "テーマの書式設定コンテンツの色をお好みに変更します。"
 
 #: inc/cc_settings.php:2379
 msgid "Primary Font (Titles)"
-msgstr ""
+msgstr "メインフォント (タイトル)"
 
 #: inc/cc_settings.php:2397
 msgid "Secondary Font (Content)"
-msgstr ""
+msgstr "サブフォント (コンテンツ)"
 
 #: inc/cc_settings.php:2415
 msgid "Meta Font"
-msgstr ""
+msgstr "詳細フォント"
 
 #: index.php:23
 msgid "Search results for: %s"
@@ -427,11 +431,11 @@ msgstr "検索結果: %s"
 
 #: inc/cc_settings.php:754
 msgid "Footer Logo Image"
-msgstr ""
+msgstr "フッターのロゴ画像"
 
 #: inc/cc_settings.php:788
 msgid "Display Footer Logo Image"
-msgstr ""
+msgstr "フッターのロゴ画像を表示"
 
 #: inc/cc_settings.php:808
 msgid "Header Settings"
@@ -439,11 +443,11 @@ msgstr "ヘッダ設定"
 
 #: inc/cc_settings.php:810
 msgid "Customize the header of your website by changing the background color of the header or menu. Also set up your logo and choose whether to display the header advertisment banner (468x61) or not. , "
-msgstr ""
+msgstr "ヘッダーやメニューの背景色を変更して、サイトのヘッダーをカスタマイズします。ロゴを設定し、ヘッダーに広告バナー (468x61) を表示するかどうか選択します。"
 
 #: inc/cc_settings.php:838
 msgid "Display Advertisment"
-msgstr ""
+msgstr "広告を表示"
 
 #: inc/cc_settings.php:888
 msgid "Header Background Color"
@@ -451,23 +455,23 @@ msgstr "ヘッダーの背景色"
 
 #: inc/cc_settings.php:938
 msgid "Header Menu Background Color"
-msgstr ""
+msgstr "ヘッダーメニューの背景色"
 
 #: inc/cc_settings.php:978
 msgid "Advertisment Banner Image"
-msgstr ""
+msgstr "広告バナー画像"
 
 #: inc/cc_settings.php:1018
 msgid "Advertisment Banner URL"
-msgstr ""
+msgstr "広告バナー URL"
 
 #: inc/cc_settings.php:1046
 msgid "This is the default advertisment banner that comes with the theme. You can change it using the WordPress Customizer."
-msgstr ""
+msgstr "テーマの標準の広告バナーです。WordPress カスタマイザーで変更可能です。"
 
 #: inc/cc_settings.php:1062
 msgid "Advertisment Banner Description"
-msgstr ""
+msgstr "広告バナーの説明"
 
 #: inc/cc_settings.php:1102
 msgid "Logo"
@@ -475,7 +479,7 @@ msgstr "ロゴ"
 
 #: inc/cc_settings.php:233
 msgid "Set up the social links that you would like to display in the header. We recommend to display maximum 5 icons so the design doesn't break."
-msgstr ""
+msgstr "ヘッダーに表示させたい SNS リンクを設定します。デザインが崩れないように、アイコンは5個以内がおすすめです。"
 
 #: inc/cc_settings.php:575
 msgid "Footer Settings"
@@ -483,7 +487,7 @@ msgstr "フッター設定"
 
 #: inc/cc_settings.php:577
 msgid "Customize the footer by changing the background color, logo or the copyright text."
-msgstr ""
+msgstr "背景色、ロゴや著作権表示を変更し、フッターをカスタマイズします。"
 
 #: inc/cc_settings.php:616
 msgid "Copyright Text"
@@ -491,7 +495,7 @@ msgstr "著作権テキスト"
 
 #: inc/cc_settings.php:664
 msgid "Lower Footer Background Color"
-msgstr ""
+msgstr "フッター下部の背景色"
 
 #: inc/cc_settings.php:714
 msgid "Background Color"
@@ -499,43 +503,43 @@ msgstr "背景色"
 
 #: inc/cc_settings.php:50
 msgid "Default Post Featured Image"
-msgstr ""
+msgstr "標準の投稿の特集画像"
 
 #: inc/cc_settings.php:82
 msgid "Default Product Image"
-msgstr ""
+msgstr "標準の商品画像"
 
 #: inc/cc_settings.php:114
 msgid "Website Favicon"
-msgstr ""
+msgstr "サイトのファビコン"
 
 #: inc/cc_settings.php:130
 msgid "Check out the <a href=\"https://themeisle.com/themes/bookrev/\">PRO version</a> to be able to use this widget!"
-msgstr ""
+msgstr "<a href=\"https://themeisle.com/themes/bookrev/\">PRO バージョン</a>をチェックして、ウィジェットを利用可能にする。"
 
 #: inc/cc_settings.php:138
 msgid "Check out the <a href=\"https://themeisle.com/themes/bookrev/\">PRO version</a> to be able to use this template!"
-msgstr ""
+msgstr "<a href=\"https://themeisle.com/themes/bookrev/\">PRO バージョン</a>をチェックして、テンプレートを利用可能にする。"
 
 #: inc/cc_settings.php:150
 msgid "BookRev Featured Reviews widget"
-msgstr ""
+msgstr "BookRev おすすめレビュー ウィジェット"
 
 #: inc/cc_settings.php:152
 msgid "This widget displays the latest reviews from a specific category."
-msgstr ""
+msgstr "このウィジェットは、特定のカテゴリから最新のレビューを表示します。"
 
 #: inc/cc_settings.php:177
 msgid "BookRev Latest Comments widget"
-msgstr ""
+msgstr "BookRev 最新コメントウィジェット"
 
 #: inc/cc_settings.php:179
 msgid "This widget displays the latest comments."
-msgstr ""
+msgstr "このウィジェットは、最新のコメントを表示します。"
 
 #: inc/cc_settings.php:205
 msgid "Full width template page"
-msgstr ""
+msgstr "全幅テンプレートページ"
 
 #: inc/cc_settings.php:231
 msgid "Social Links"
@@ -543,7 +547,7 @@ msgstr "ソーシャルリンク"
 
 #: functions.php:553
 msgid "Default Title"
-msgstr ""
+msgstr "標準のタイトル"
 
 #: inc/cc_settings.php:22
 msgid "General Settings"
@@ -551,11 +555,11 @@ msgstr "一般設定"
 
 #: functions.php:36
 msgid "Primary Header Menu"
-msgstr ""
+msgstr "メインヘッダーメニュー"
 
 #: functions.php:37
 msgid "Top Bar Menu"
-msgstr ""
+msgstr "最上部バーのメニュー"
 
 #: class-tgm-plugin-activation.php:336 functions.php:146
 msgid "Something went wrong with the plugin API."
@@ -576,7 +580,7 @@ msgstr "ページ %s"
 
 #: footer.php:75 inc/cc_settings.php:602
 msgid "Copyright 2015 ThemeIsle"
-msgstr ""
+msgstr "Copyright 2015 ThemeIsle"
 
 #: footer.php:80
 msgid "powered by"
@@ -604,11 +608,11 @@ msgstr "%件のコメント"
 
 #: comment-form.php:41
 msgid "Your Message..."
-msgstr ""
+msgstr "メッセージ..."
 
 #: comments.php:3
 msgid "Sorry but this article is password protected."
-msgstr ""
+msgstr "申し訳ございません、この記事はパスワード保護されています。"
 
 #: comments.php:13 templates/bookrev_slider_template.php:80
 msgid "No Comments"
@@ -684,7 +688,7 @@ msgstr "ステータス"
 
 #: class-tgm-plugin-activation.php:2438
 msgid "Type"
-msgstr "Type"
+msgstr "タイプ"
 
 #: class-tgm-plugin-activation.php:2437
 msgid "Source"
@@ -798,12 +802,12 @@ msgstr[0] "おすすめの %1$s プラグインは、アクティブに設定さ
 #: class-tgm-plugin-activation.php:337 functions.php:148
 msgid "This theme requires the following plugin: %1$s."
 msgid_plural "This theme requires the following plugins: %1$s."
-msgstr[0] "このテーマは、%1$s　プラグインが必要です"
+msgstr[0] "このテーマは、%1$s プラグインが必要です"
 
 #: class-tgm-plugin-activation.php:342 functions.php:150
 msgid "This theme recommends the following plugin: %1$s."
 msgid_plural "This theme recommends the following plugins: %1$s."
-msgstr[0] "このテーマは、%1$s　プラグイン利用をおすすめします"
+msgstr[0] "このテーマは、%1$s プラグインの利用をおすすめします"
 
 #: class-tgm-plugin-activation.php:335 functions.php:144
 msgid "Installing Plugin: %s"
@@ -811,11 +815,11 @@ msgstr "インストールしているプラグイン: %s"
 
 #: 404.php:35
 msgid "404 Error!"
-msgstr ""
+msgstr "404エラー"
 
 #: 404.php:37
 msgid "The page you are looking for could not be found!"
-msgstr ""
+msgstr "お探しのページが見つかりませんでした"
 
 #: class-tgm-plugin-activation.php:333 functions.php:140
 msgid "Install Required Plugins"
@@ -827,7 +831,7 @@ msgstr "プラグインのインストール"
 
 #. Theme URI of the plugin/theme
 msgid "https://themeisle.com/themes/bookrev-lite/"
-msgstr ""
+msgstr "https://themeisle.com/themes/bookrev-lite/"
 
 #. Author of the plugin/theme
 msgid "Themeisle"

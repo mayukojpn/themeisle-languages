@@ -2,17 +2,21 @@
 # This file is distributed under the same license as the Llorix One Lite package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-03-30 05:43:49+0000\n"
+"PO-Revision-Date: 2016-04-11 03:18+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: GlotPress/1.1.0-alpha\n"
+"X-Generator: Poedit 1.7.5\n"
 "Project-Id-Version: Llorix One Lite\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
 
 #. Description of the plugin/theme
 msgid "Llorix One Lite is a free and beautiful one page business WordPress theme, with a flat and clean bootstrap based design and an elegant parallax effect. It provides a simple,minimal and modern look that can be used for any kind of personal businesses or startup mobile app. The landing page has a fullscreen hero image and blue & orange appearance with buttons and icons promoting simplicity and elegance at their best. The theme provides a responsive blog section, is eCommerce ready (WooCommerce store compatible), WPML, bbPress, Photo Gallery Grid,Contact Form 7,Meta Slider,SiteOrigin Page Builder, JetPack compatible  and SEO friendly. You can use it for your business / startup shop, agency, corporate website, or photography portfolio."
-msgstr ""
+msgstr "Llorix One Lite は無料の美しい1ページのビジネス向け WordPress テーマで、フラットでクリーンな bootstrap ベースのデザインとエレガントなパララックス効果を備えています。シンプルでミニマル、モダンな見た目であらゆる個人ビジネスやモバイルアプリの立ち上げにご利用いただけます。ランディングページはフルスクリーンの目立つ画像とブルー&オレンジの外観に、この上なくシンプルでエレガントな印象をもたらすボタンとアイコンを配置しています。WooCommerce を利用したネットショップ、WPML、bbPress、Photo Gallery Grid、Contact Form 7、Meta Slider、SiteOrigin Page Builder、Jetpack 対応で SEO フレンドリーの柔軟なブログ項目を提供します。ビジネスやスタートアップのショップ、企業サイト、写真ポートフォリオに最適です。"
 
 #. Theme Name of the plugin/theme
 msgid "Llorix One Lite"
@@ -28,7 +32,7 @@ msgstr "お電話ください:"
 
 #: inc/customizer.php:81
 msgid "Change the template to Full width for all the pages?"
-msgstr ""
+msgstr "すべての固定ページを全幅テンプレートに変更します。"
 
 #: inc/customizer.php:205
 msgid "Text before the phone number"
@@ -36,7 +40,7 @@ msgstr "電話番号の前に表示するテキスト"
 
 #: inc/customizer.php:294 inc/customizer.php:441
 msgid "Overlay color and transparency"
-msgstr ""
+msgstr "重ねる色と透過率"
 
 #: inc/customizer.php:329
 msgid "Big title section"
@@ -48,7 +52,7 @@ msgstr "大きなタイトルセクション背景"
 
 #: inc/customizer.php:450
 msgid "Logos Bar section"
-msgstr ""
+msgstr "ロゴバーセクション"
 
 #: inc/customizer.php:305
 msgid "Frontpage settings"
@@ -64,39 +68,40 @@ msgstr "貢献するには ?"
 
 #: inc/admin/welcome-screen/sections/github.php:15
 msgid "Found a bug? Want to contribute with a fix or create a new feature?"
-msgstr ""
+msgstr "バグを見つけましたか？修正や新機能の制作に参加したいですか？"
 
 #: inc/admin/welcome-screen/sections/github.php:28
 msgid "Are you a polyglot? Want to translate Llorix One Lite into your own language?"
-msgstr ""
+msgstr "他の言語が話せますか？Llorix One Lite をあなたの言語に翻訳したいですか？"
 
 #: inc/admin/welcome-screen/sections/github.php:30
 msgid "Get involved at WordPress.org."
-msgstr ""
+msgstr "WordPress.org に参加する"
 
+# 要確認
 #: inc/customizer.php:21
 msgid "To customize the Frontpage sections please create a page and select the template \"Frontpage\" for that page. After that, go to Appearance -> Customize -> Static Front Page and under \"Static Front Page\" select \"A static page\". Finally, for \"Front page\" choose the page you previously created."
-msgstr ""
+msgstr "フロントページセクションをカスタマイズするには、新しく固定ページを作成して「フロントページ」テンプレートを選択してください。その後、「外観」>「カスタマイズ」>「固定フロントページ」にて、項目「固定フロントページ」から"
 
 #: inc/customizer.php:21
 msgid "Need further informations? Check this"
-msgstr ""
+msgstr "更なる情報はこちらの"
 
 #: inc/customizer.php:21
 msgid "doc"
-msgstr ""
+msgstr "ドキュメンテーションをご覧ください。"
 
 #: inc/customizer.php:135
 msgid "Llorix One Lite theme general appearance options"
-msgstr ""
+msgstr "Llorix One Lite テーマの一般外観設定"
 
 #: inc/customizer.php:176
 msgid "Header"
-msgstr "ヘッダ"
+msgstr "ヘッダー"
 
 #: inc/customizer.php:709 inc/customizer.php:742
 msgid "To use this section please install "
-msgstr ""
+msgstr "このセクションを利用するには、"
 
 #: inc/customizer.php:709 inc/customizer.php:742
 msgid "Intergeo Maps"
@@ -104,47 +109,47 @@ msgstr "Intergeo マップ"
 
 #: inc/customizer.php:709 inc/customizer.php:742
 msgid " plugin then use it to create a map and paste here the shortcode generated"
-msgstr ""
+msgstr "プラグインをインストールして地図を作成し、生成されたショートコードをここに貼り付けてください。"
 
 #: inc/customizer.php:730
 msgid "Create a form, copy the shortcode generated and paste it here. We recommend "
-msgstr ""
+msgstr "フォームを作成するには、生成されたショートコードをコピーし、貼り付けてください。"
 
 #: inc/customizer.php:730
 msgid " but you can use any plugin you like."
-msgstr ""
+msgstr "がおすすめですが、どのプラグインも利用可能です。"
 
 #: inc/admin/welcome-screen/sections/support.php:9
 msgid "Need more details?"
-msgstr ""
+msgstr "詳しい情報"
 
 #: inc/admin/welcome-screen/sections/support.php:11
 msgid "Please check our full documentation for detailed information on how to use Llorix One."
-msgstr ""
+msgstr "完全なドキュメンテーションから、Llorix One 利用方法の詳細情報をご覧ください。"
 
 #: inc/admin/welcome-screen/sections/support.php:14
 msgid "Llorix One Lite documentation"
-msgstr ""
+msgstr "Llorix One Lite ドキュメンテーション"
 
 #: inc/admin/welcome-screen/sections/support.php:17
 msgid "Or would you like to contact us? Write on our support forum."
-msgstr ""
+msgstr "私たちに連絡するには、サポートフォーラムに書き込んでください。"
 
 #: inc/admin/welcome-screen/sections/support.php:20
 msgid "Support forum"
-msgstr "Support forum"
+msgstr "サポートフォーラム"
 
 #: inc/admin/welcome-screen/welcome-screen.php:166
 msgid "Support"
-msgstr "支援"
+msgstr "サポート"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:55
 msgid "In the below documentation you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
-msgstr ""
+msgstr "以下のドキュメンテーションにて、ドラッグ・アンド・ドロップのコンテンツ作成プラグインを利用した見栄えの良いランディングページの簡単な作成方法をご覧ください。"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:54
 msgid "Build a landing page with a drag-and-drop content builder"
-msgstr ""
+msgstr "ドラッグ・アンド・ドロップ コンテンツビルダーを使ったランディングページの作成"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:139
 msgid "Easy Content Types"
@@ -152,7 +157,7 @@ msgstr "Easy Content Types"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:140
 msgid "Custom Post Types, Taxonomies and Metaboxes in Minutes"
-msgstr ""
+msgstr "カスタム投稿タイプ、カスタムタクソノミーとカスタムフィールドを簡単に"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:150
 msgid "Download Easy Content Types"
@@ -160,27 +165,27 @@ msgstr "Easy Content Types をダウンロード"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:164
 msgid "Page Builder by SiteOrigin"
-msgstr ""
+msgstr "SiteOrigin のページビルダー"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:165
 msgid "Build responsive page layouts using the widgets you know and love using this simple drag and drop page builder."
-msgstr ""
+msgstr "シンプルなドラッグ・アンド・ドロップのページビルダーで、おなじみのウィジェットを利用して、レスポンシブなページレイアウトを構築します。"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:175
 msgid "Install Page Builder by SiteOrigin"
-msgstr ""
+msgstr "SiteOrigin のページビルダーをインストール"
 
 #: inc/admin/welcome-screen/sections/github.php:33
 msgid "Translate Llorix One Lite"
-msgstr ""
+msgstr "Llorix One Lite を翻訳"
 
 #: inc/admin/welcome-screen/sections/github.php:40
 msgid "Are you enjoying Llorix One Lite?"
-msgstr ""
+msgstr "Llorix One Lite はお役に立っていますか。"
 
 #: inc/admin/welcome-screen/sections/github.php:42
 msgid "Rate our theme on %sWordPress.org%s. We'd really appreciate it!"
-msgstr ""
+msgstr "%sWordPress.org%s にてテーマを採点してください。ご協力ありがとうございます。"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:101
 msgid "Llorix One Companion"
@@ -188,7 +193,7 @@ msgstr "Llorix One Companion"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:102
 msgid "The Llorix One Companion plugin is a simple, easy and in the same time quite powerful plugins that adds options for Our Services, Our Team and Testimonials sections on frontpage."
-msgstr ""
+msgstr "Llorix One Companion プラグインは、フロントページの「サービス」「チーム」「お客様の声」セクションの設定を追加する、シンプルで簡単であると同時に非常にパワフルなプラグインです。"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:112
 msgid "Install Llorix One Companion"
@@ -196,11 +201,11 @@ msgstr "Llorix One Companion をインストール"
 
 #: inc/customizer.php:463
 msgid "Disable the Logos bar sections?"
-msgstr ""
+msgstr "ロゴバーセクションを非表示にする。"
 
 #: inc/customizer.php:194
 msgid "Disable the Very top header?"
-msgstr ""
+msgstr "一番上のヘッダーを非表示にする。"
 
 #: inc/customizer.php:510
 msgid "Disable the About section?"
@@ -220,7 +225,7 @@ msgstr "連絡先セクション"
 
 #: inc/customizer.php:677
 msgid "Disable the Contact info section?"
-msgstr ""
+msgstr "連絡先セクションを非表示にする。"
 
 #. Template Name of the plugin/theme
 msgid "Frontpage"
@@ -246,7 +251,7 @@ msgstr "リボン"
 #: sections/llorix_one_lite_ribbon_section.php:78
 #: sections/llorix_one_lite_ribbon_section.php:80
 msgid "Ribbon button label:"
-msgstr ""
+msgstr "リボンボタンのラベル:"
 
 #: sidebar.php:13
 msgid "Main sidebar"
@@ -255,7 +260,7 @@ msgstr "メインサイドバー"
 #: sections/llorix_one_lite_logos_section.php:26
 #: sections/llorix_one_lite_logos_section.php:65
 msgid "Affiliates Logos"
-msgstr ""
+msgstr "アフェリエイトロゴ"
 
 #: sections/llorix_one_lite_our_story_section.php:17
 #: sections/llorix_one_lite_our_story_section.php:27
@@ -283,12 +288,12 @@ msgstr "最新のブログ投稿"
 #: sections/llorix_one_lite_latest_news_section.php:35
 #: sections/llorix_one_lite_latest_news_section.php:148
 msgid "Post slider navigation: Down"
-msgstr ""
+msgstr "投稿スライダーナビゲーション: 下"
 
 #: sections/llorix_one_lite_latest_news_section.php:36
 #: sections/llorix_one_lite_latest_news_section.php:149
 msgid "Post slider navigation: Up"
-msgstr ""
+msgstr "投稿スライダーナビゲーション: 上"
 
 #: sections/llorix_one_lite_latest_news_section.php:59
 #: sections/llorix_one_lite_latest_news_section.php:172
@@ -349,7 +354,7 @@ msgstr "次のページ"
 
 #: inc/customizer.php:36
 msgid "Llorix One Lite theme general options"
-msgstr ""
+msgstr "Llorix One Lite テーマの一般設定"
 
 #: inc/customizer.php:69
 msgid "Disable preloader?"
@@ -357,7 +362,7 @@ msgstr "プリロードを無効化しますか ?"
 
 #: inc/customizer.php:70
 msgid "If this box is checked, the preloader will be disabled from homepage."
-msgstr ""
+msgstr "チェックして、サイト全体でプリロードを無効にします。"
 
 #: inc/extras.php:52
 msgid "Page %s"
@@ -369,7 +374,7 @@ msgstr "高度なオプション"
 
 #: inc/customizer.php:694
 msgid "Add new contact field"
-msgstr ""
+msgstr "新しい連絡先フィールドを追加"
 
 #: inc/customizer.php:708 inc/customizer.php:741
 msgid "Map shortcode"
@@ -389,7 +394,7 @@ msgstr "フッター設定"
 
 #: inc/customizer.php:754
 msgid "The main content of this section is customizable in: Customize -> Widgets -> Footer area. "
-msgstr ""
+msgstr "このセクションのメインコンテンツは「カスタマイズ」>「ウィジェット」>「フッターエリア」でカスタマイズ可能です。"
 
 #: inc/customizer.php:770
 msgid "Copyright"
@@ -409,7 +414,7 @@ msgstr "会社の歩み"
 
 #: inc/customizer.php:529 sections/llorix_one_lite_our_story_section.php:8
 msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-msgstr ""
+msgstr "吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞くとそれは書生という人間中で一番獰悪な種族であったそうだ。"
 
 #: inc/customizer.php:558
 msgid "Ribbon section"
@@ -430,11 +435,11 @@ msgstr "最新ニュース"
 
 #: inc/customizer.php:405
 msgid "Parallax effect"
-msgstr ""
+msgstr "パララックス効果"
 
 #: inc/customizer.php:406
 msgid "If this box is checked, the parallax effect is enabled."
-msgstr ""
+msgstr "チェックして、パララックス効果を有効にします。"
 
 #: inc/customizer.php:418
 msgid "First layer"
@@ -446,7 +451,7 @@ msgstr "第2レイヤー"
 
 #: inc/customizer.php:181
 msgid "Very top header"
-msgstr ""
+msgstr "一番上のヘッダー"
 
 #: header.php:86 inc/customizer.php:212
 msgid "(+9) 0999.500.400"
@@ -458,7 +463,7 @@ msgstr "電話番号"
 
 #: inc/customizer.php:235 inc/customizer.php:483 inc/customizer.php:790
 msgid "Add new social icon"
-msgstr ""
+msgstr "新しいソーシャルアイコンを追加"
 
 #: inc/customizer.php:388 inc/customizer.php:619
 msgid "Button link"
@@ -482,7 +487,7 @@ msgstr "吾輩は猫である。名前はまだ無い。どこで生れたかと
 #: sections/llorix_one_lite_header_section.php:6
 #: sections/llorix_one_lite_ribbon_section.php:8
 msgid "GET STARTED"
-msgstr "始めてみよう"
+msgstr "さあ始めましょう"
 
 #: inc/customizer.php:377 inc/customizer.php:607
 msgid "Button label"
@@ -502,7 +507,7 @@ msgstr "ヘッダーの公開状態"
 
 #: inc/customizer.php:158
 msgid "If this box is checked, the header will toggle on frontpage."
-msgstr ""
+msgstr "チェックして、フロントページのヘッダーをスクロール時のみ表示します。"
 
 #: inc/customizer.php:536
 msgid "Content"
@@ -537,7 +542,7 @@ msgstr "新しいフィールドを追加"
 
 #: inc/customizer.php:721
 msgid "To customize the Contact Page you need to first select the template \"Contact page\" for the page you want to use for this purpose. Then open that page in the browser and press \"Customize\" in the top bar."
-msgstr ""
+msgstr "お問い合わせページをカスタマイズするには、まずあなたがこの目的のために使用したいページのテンプレート「お問い合わせページ」を選択する必要があります。その後、ブラウザでそのページを開いて、上部のバーに「カスタマイズ」を押してください。"
 
 #: inc/customizer.php:93
 msgid "Appearance"
@@ -584,7 +589,7 @@ msgstr "文章"
 #: inc/class/llorix-one-lite-general-control.php:321 inc/customizer.php:270
 #: inc/customizer.php:365
 msgid "Subtitle"
-msgstr "字幕スーパー"
+msgstr "サブタイトル"
 
 #: inc/class/llorix-one-lite-general-control.php:127
 #: inc/class/llorix-one-lite-general-control.php:128
@@ -593,7 +598,7 @@ msgstr "字幕スーパー"
 #: inc/class/llorix-one-lite-general-control.php:313
 #: inc/class/llorix-one-lite-general-control.php:314 inc/customizer.php:259
 msgid "Title"
-msgstr "Title"
+msgstr "タイトル"
 
 #: inc/class/llorix-one-lite-general-control.php:88
 #: inc/class/llorix-one-lite-general-control.php:107
@@ -653,23 +658,23 @@ msgstr "アイコン"
 
 #: inc/admin/welcome-screen/sections/github.php:17
 msgid "GitHub is the place to go!"
-msgstr ""
+msgstr "GitHub からどうぞ。"
 
 #: inc/admin/welcome-screen/sections/github.php:20
 msgid "Llorix One Lite on GitHub"
-msgstr ""
+msgstr "Llorix One Lite on GitHub"
 
 #: inc/admin/welcome-screen/welcome-screen.php:52
 msgid "Welcome! Thank you for choosing Llorix One Lite! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
-msgstr ""
+msgstr "ようこそ！Llorix One Lite をお選びいただきありがとうございます。このテーマのすべての恩恵をうけるために、必ず%ウェルカムページ%sを訪問してください。"
 
 #: inc/admin/welcome-screen/welcome-screen.php:53
 msgid "Get started with Llorix One Lite"
-msgstr ""
+msgstr "Llorix One Lite を使い始める"
 
 #: inc/admin/welcome-screen/welcome-screen.php:86
 msgid "Hooray! There are no required actions for you right now."
-msgstr ""
+msgstr "おめでとう！今のところ必要な作業はありません。"
 
 #: inc/admin/welcome-screen/welcome-screen.php:164
 msgid "Actions recommended"
@@ -681,7 +686,7 @@ msgstr "参加・貢献"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:121
 msgid "Makes your contact page more engaging by creating a good-looking contact form on your website. The interaction with your visitors was never easier."
-msgstr ""
+msgstr "見栄えの良いお問い合わせフォームをサイトに設置して、お問い合わせページのからのお問い合わせを増やしましょう。訪問者との対話は日々の努力から。"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:131
 msgid "Install Pirate Forms"
@@ -689,11 +694,11 @@ msgstr "Pirate Forms をインストール"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:87
 msgid "Need more details? Please check our full documentation for detailed information on how to use Llorix One."
-msgstr ""
+msgstr "完全なドキュメンテーションから、Llorix One 利用方法の詳細情報をご覧ください。"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:88
 msgid "Read full documentation"
-msgstr ""
+msgstr "すべてのドキュメンテーションを読む"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:95
 msgid "Recommended plugins"
@@ -705,7 +710,7 @@ msgstr "Intergeo Maps - Google マップのプラグイン"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:184
 msgid "The Intergeo Google Maps plugin is a simple, easy and in the same time quite powerful tool for handling Google Maps in your website. The plugin allows users to create new maps by using powerful UI builder."
-msgstr ""
+msgstr "Intergeo Google Maps プラグインはシンプルで簡単でありながら、サイトで Google マップを取り扱うに非常に強力なツールです。プラグインによって、強力な UI ビルダーを使用したマップ作成が可能です。"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:106
 #: inc/admin/welcome-screen/sections/getting-started.php:125
@@ -726,7 +731,7 @@ msgstr "Pirate Forms"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:43
 msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
-msgstr ""
+msgstr "テーマのファイルに変更を加えたい場合、変更内容が今後のテーマの更新で上書きされてしまうかもしれません。これを防ぐために、子テーマを作成する必要があります。以下のマニュアルに従ってください。"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:44
 #: inc/admin/welcome-screen/sections/getting-started.php:50
@@ -735,7 +740,7 @@ msgstr ""
 #: inc/admin/welcome-screen/sections/getting-started.php:70
 #: inc/admin/welcome-screen/sections/getting-started.php:76
 msgid "View how to do this"
-msgstr ""
+msgstr "方法を見る"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:48
 msgid "How to Internationalize Your Website"
@@ -743,7 +748,7 @@ msgstr "サイトの国際化"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:49
 msgid "Although English is the most used language on the internet, you should consider all your web users as well. Find out what it takes to make your website ready for foreign markets from this document."
-msgstr ""
+msgstr "英語はインターネット上で最も利用されている言語なので、あなたのサイトの訪問者も同様であると検討すべきです。ドキュメントにて、サイトを海外市場に対応させる方法を参照します。"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:62
 msgid "Speed up your site"
@@ -751,15 +756,15 @@ msgstr "サイトをスピードアップ"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:63
 msgid "If you find yourself in the situation where everything on your site is running very slow, you might consider having a look at the below documentation where you will find the most common issues causing this and possible solutions for each of the issues."
-msgstr ""
+msgstr "あなたのサイトの動作が遅いと感じる場合、以下のドキュメンテーションの"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:68
 msgid "Link Menu to sections"
-msgstr ""
+msgstr "セクションへのリンクメニュー"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:69
 msgid "Linking the frontpage sections with the top menu is very simple, all you need to do is assign section anchors to the menu. In the below documentation you will find a nice tutorial about this."
-msgstr ""
+msgstr "トップメニューからフロントページセクションにリンクするのはとても簡単で、セクションアンカーをメニューに割り当てるだけです。以下のドキュメンテーションで、わかりやすいチュートリアルをご覧いただけます。"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:74
 msgid "Change anchors"
@@ -767,7 +772,7 @@ msgstr "アンカーを変更"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:75
 msgid "To better suit your site's needs, you can change each section's anchor to what you want. The entire process is described below."
-msgstr ""
+msgstr "サイトに合わせるために、各セクションのアンカーを必要に応じて変更します。以下に詳細があります。"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:86
 msgid "View full documentation"
@@ -779,11 +784,11 @@ msgstr "子テーマを作成"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:26
 msgid "Customize everything in a single place."
-msgstr ""
+msgstr "1か所ですべてをカスタマイズします。"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:27
 msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
-msgstr ""
+msgstr "WordPress カスタマイザーを利用してテーマのあらゆる側面を簡単にカスタマイズ可能です。"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:28
 msgid "Go to Customizer"
@@ -795,23 +800,23 @@ msgstr "よくある質問と答え"
 
 #: inc/admin/welcome-screen/sections/actions-required.php:9
 msgid "Keep up with Llorix One Lite's recommended actions"
-msgstr ""
+msgstr "Llorix One Lite の推奨作業を確認する。"
 
 #: inc/admin/welcome-screen/sections/actions-required.php:58
 msgid "Hooray! There are no recommended actions for you right now."
-msgstr ""
+msgstr "おめでとう！今のところ必要な作業はありません。"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:13
 msgid "Welcome to Llorix One Lite!"
-msgstr ""
+msgstr "Llorix One Lite へようこそ。"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:15
 msgid "Our most elegant and professional one-page theme, which turns your scrolling into a smooth and pleasant experience."
-msgstr ""
+msgstr "スクロールをスムーズで快適な体験にする、エレガントでプロフェッショナルな1ページのテーマ。"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:16
 msgid "We want to make sure you have the best experience using Llorix One Lite and that is why we gathered here all the necessary informations for you. We hope you will enjoy using Llorix One Lite, as much as we enjoy creating great products."
-msgstr ""
+msgstr "Llorix One Lite のご利用が最高の体験になるようお約束するために、すべての欠かせない情報をここに集めました。私達がすばらしい商品を楽しんで制作するのと同じように、あなたも Llorix One Lite のご利用をお楽しみいただけることを願っています。"
 
 #: inc/admin/welcome-screen/sections/getting-started.php:24
 #: inc/admin/welcome-screen/welcome-screen.php:163
@@ -832,7 +837,7 @@ msgstr "ナビゲーションを切り替え"
 
 #: functions.php:680
 msgid "Read more about "
-msgstr ""
+msgstr "続きを読む"
 
 #: header.php:20
 msgid "Skip to content"
@@ -849,7 +854,7 @@ msgstr "%1$s at %2$s"
 
 #: functions.php:456
 msgid "<span itemprop=\"name\">%s </span><span class=\"says\">says:</span>"
-msgstr ""
+msgstr "<span itemprop=\"name\">%s </span><span class=\"says\">のコメント:</span>"
 
 #: functions.php:459
 msgid "Your comment is awaiting moderation."
@@ -870,7 +875,7 @@ msgstr[0] "%s プラグインを更新する権限がありません。このサ
 
 #: functions.php:348
 msgid "All plugins installed and activated successfully. %s"
-msgstr "全てのプラグインのインストール・有効化が完了しました：%s"
+msgstr "すべてのプラグインのインストール・有効化が完了しました：%s"
 
 #: functions.php:341
 msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
@@ -896,19 +901,19 @@ msgstr "サブメニューを展開"
 
 #: functions.php:129
 msgid "Switch \"Front page displays\" to \"A static page\" "
-msgstr ""
+msgstr "「フロントページ表示」を「固定ページ」に切り替える"
 
 #: functions.php:130
 msgid "In order to have the one page look for your website, please go to Customize -> Static Front Page and switch \"Front page displays\" to \"A static page\". Then select the template \"Frontpage\" for that selected page."
-msgstr ""
+msgstr "サイトを1ページ表示にするには、「カスタマイズ」>「固定フロントページ」で、「フロントページ表示」を「固定ページ」に切り替えます。その後、選択したページで「フロントページ」テンプレートを選択します。"
 
 #: functions.php:135
 msgid "Install Intergeo Maps - Google Maps Plugin"
-msgstr ""
+msgstr "Intergeo Maps をインストール - Google マップのプラグイン"
 
 #: functions.php:136
 msgid "In order to use map section, you need to install Intergeo Maps plugin then use it to create a map and paste the generated shortcode in Customize -> Contact section -> Map shortcode"
-msgstr ""
+msgstr "マップセクションを利用するには、Intergeo Maps プラグインをインストールして新しくマップを作成し、生成されたショートコードを「カスタマイズ」>「お問い合わせレクション」>「マップショートコード」に貼り付けてください。"
 
 #: functions.php:172
 msgid "Sidebar"
@@ -968,7 +973,7 @@ msgstr "第2メニュー"
 
 #: content-search.php:85 content.php:76
 msgid "Read more %s ..."
-msgstr ""
+msgstr "続きを読む %s"
 
 #: content-search.php:85 content.php:76
 msgid "about "
@@ -1191,7 +1196,7 @@ msgstr "不明"
 
 #: class-tgm-plugin-activation.php:2379
 msgid "Installed version:"
-msgstr "Version : "
+msgstr "インストールされているバージョン:"
 
 #: class-tgm-plugin-activation.php:2387
 msgid "Minimum required version:"
@@ -1274,7 +1279,7 @@ msgstr "必要な"
 
 #: class-tgm-plugin-activation.php:935
 msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
-msgstr ""
+msgstr "リモートプラグインパッケージには、指定されたスラッグのフォルダがないため、名前の変更ができませんでした。"
 
 #: class-tgm-plugin-activation.php:935 class-tgm-plugin-activation.php:938
 msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
@@ -1282,7 +1287,7 @@ msgstr "プラグイン開発者に連絡し、WordPress のガイドライン�
 
 #: class-tgm-plugin-activation.php:938
 msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
-msgstr ""
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルは1つのフォルダ内にパッケージされていません。"
 
 #: class-tgm-plugin-activation.php:1116 class-tgm-plugin-activation.php:2828
 msgctxt "plugin A *and* plugin B"
@@ -1355,7 +1360,7 @@ msgstr[0] "プラグインの更新を開始する"
 #: class-tgm-plugin-activation.php:377
 msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
 msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
-msgstr[0] ""
+msgstr[0] "申し訳ありませんが、あなたは %1$s プラグインを有効化するための適切な権限がありません。"
 
 #: class-tgm-plugin-activation.php:382 functions.php:344
 msgid "Begin installing plugin"
@@ -1375,7 +1380,7 @@ msgstr[0] "プラグインの更新が利用可能です (%1$s) 。"
 #: class-tgm-plugin-activation.php:362
 msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
 msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
-msgstr[0] ""
+msgstr[0] "あなたは %1$s プラグインを更新するための適切な権限がありません。"
 
 #: class-tgm-plugin-activation.php:367 functions.php:339
 msgid "The following required plugin is currently inactive: %1$s."
@@ -1395,7 +1400,7 @@ msgstr[0] "このテーマでは以下のプラグインの利用を推奨して
 #: class-tgm-plugin-activation.php:347
 msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
 msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
-msgstr[0] ""
+msgstr[0] "あなたは %1$s プラグインをインストールするための適切な権限がありません。"
 
 #: class-tgm-plugin-activation.php:337 functions.php:336
 msgid "This theme requires the following plugin: %1$s."

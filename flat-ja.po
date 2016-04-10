@@ -2,25 +2,29 @@
 # This file is distributed under the same license as the Flat package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-03-30 02:11:01+0000\n"
+"PO-Revision-Date: 2016-04-11 00:16+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: GlotPress/1.1.0-alpha\n"
+"X-Generator: Poedit 1.7.5\n"
 "Project-Id-Version: Flat\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
 
 #. Theme Name of the plugin/theme
 msgid "Flat"
-msgstr "フラット"
+msgstr "Flat"
 
 #. Description of the plugin/theme
 msgid "Flat is a free Blog Theme designed by YoArts. Works nice for a personal blog, magazine ,news or review website."
-msgstr ""
+msgstr "Flat は YoArts によるデザインの無料のブログテーマです。個人ブログ、マガジン、ニュースやレビューサイトに便利です。"
 
 #: inc/customize.php:493
 msgid "Check out the <a href=\"http://themeisle.com/plugins/flat-plus/\">PRO version</a> for some awesome color schemes!"
-msgstr ""
+msgstr "<a href=\"http://themeisle.com/plugins/flat-plus/\">PRO バージョン</a>のすばらしい配色をチェック"
 
 #: inc/customize.php:499 inc/customize.php:510
 msgid "Sidebar position"
@@ -28,23 +32,23 @@ msgstr "サイドバー配置"
 
 #: inc/customize.php:513
 msgid "Check out the <a href=\"http://themeisle.com/plugins/flat-plus/\">PRO version</a> for full control over the sidebar position!"
-msgstr ""
+msgstr "<a href=\"http://themeisle.com/plugins/flat-plus/\">PRO バージョン</a>をチェックして、サイドバーの位置をふくむすべての設定を行う。"
 
 #: inc/customize.php:519 inc/customize.php:530
 msgid "Custom width"
-msgstr ""
+msgstr "カスタム幅"
 
 #: inc/customize.php:533
 msgid "Check out the <a href=\"http://themeisle.com/plugins/flat-plus/\">PRO version</a> for full control over the main content width!"
-msgstr ""
+msgstr "<a href=\"http://themeisle.com/plugins/flat-plus/\">PRO バージョン</a>をチェックして、メインコンテンツ幅をふくむすべての設定を行う。"
 
 #: inc/customize.php:539 inc/customize.php:549
 msgid "Infinite scroll"
-msgstr ""
+msgstr "無限スクロール"
 
 #: inc/customize.php:552
 msgid "Check out the <a href=\"http://themeisle.com/plugins/flat-plus/\">PRO version</a> for full compatibility with Jetpack Infinite Scroll option!"
-msgstr ""
+msgstr "<a href=\"http://themeisle.com/plugins/flat-plus/\">PRO バージョン</a>をチェックして、Jetpack の無限スクロールに対応する。"
 
 #: inc/customize.php:748
 msgid "View Documentation"
@@ -52,7 +56,7 @@ msgstr "ドキュメンテーションを表示"
 
 #: inc/customize.php:749
 msgid "Leave us a review(it will help us)"
-msgstr ""
+msgstr "レビューを残す (ありがとうございます)"
 
 #: inc/customize.php:750
 msgid "Github"
@@ -60,7 +64,7 @@ msgstr "GitHub"
 
 #: inc/customize.php:751
 msgid "Upgrade to pro"
-msgstr ""
+msgstr "プロ版にアップグレード"
 
 #: inc/customize.php:438
 msgid "Footer widgets"
@@ -68,7 +72,7 @@ msgstr "フッターウィジェット"
 
 #: inc/customize.php:441
 msgid "Check out the <a href=\"http://themeisle.com/plugins/flat-plus/\">PRO version</a> for full control over the footer area!"
-msgstr ""
+msgstr "<a href=\"http://themeisle.com/plugins/flat-plus/\">PRO バージョン</a>をチェックして、フッターエリアのすべての設定を行う。"
 
 #: inc/customize.php:451
 msgid "Copyright"
@@ -76,23 +80,23 @@ msgstr "Copyright"
 
 #: inc/customize.php:454
 msgid "Also, you will be able to remove the footer link \"Powered by WordPress\" and add your own copyright."
-msgstr ""
+msgstr "<a href=\"http://themeisle.com/plugins/flat-plus/\">PRO バージョン</a>をチェックして、著作権表示を追加する。"
 
 #: inc/customize.php:460
 msgid "WooCommerce integration"
-msgstr ""
+msgstr "WooCommerce 連携"
 
 #: inc/customize.php:470
 msgid "WooCoomerce support"
-msgstr ""
+msgstr "WooCoomerce 対応"
 
 #: inc/customize.php:473
 msgid "Check out the <a href=\"http://themeisle.com/plugins/flat-plus/\">PRO version</a> for full compatibility with WooCommerce!"
-msgstr ""
+msgstr "<a href=\"http://themeisle.com/plugins/flat-plus/\">PRO バージョン</a>をチェックして、WooCommerce 連携を行う。"
 
 #: inc/customize.php:479 inc/customize.php:490
 msgid "Color schemes"
-msgstr ""
+msgstr "テーマ配色"
 
 #: inc/customize.php:428
 msgid "Footer"
@@ -100,11 +104,11 @@ msgstr "フッタ"
 
 #: class-tgm-plugin-activation.php:2643
 msgid "No plugins were selected to be installed. No action taken."
-msgstr ""
+msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
 
 #: class-tgm-plugin-activation.php:2645
 msgid "No plugins were selected to be updated. No action taken."
-msgstr ""
+msgstr "更新するプラグインが選択されていません。何も実行しませんでした。"
 
 #: class-tgm-plugin-activation.php:2681
 msgid "No plugins are available to be installed at this time."
@@ -116,7 +120,7 @@ msgstr "現在更新できるプラグインはありません。"
 
 #: class-tgm-plugin-activation.php:2788
 msgid "No plugins were selected to be activated. No action taken."
-msgstr ""
+msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
 
 #: class-tgm-plugin-activation.php:2814
 msgid "No plugins are available to be activated at this time."
@@ -134,7 +138,7 @@ msgstr "インストール %2$s"
 #: class-tgm-plugin-activation.php:2495
 msgctxt "%2$s = plugin name in screen reader markup"
 msgid "Update %2$s"
-msgstr ""
+msgstr "%2$s を更新"
 
 #: class-tgm-plugin-activation.php:2500
 msgctxt "%2$s = plugin name in screen reader markup"
@@ -171,7 +175,7 @@ msgstr "不明"
 
 #: class-tgm-plugin-activation.php:2379
 msgid "Installed version:"
-msgstr "Version : "
+msgstr "インストールされているバージョン:"
 
 #: class-tgm-plugin-activation.php:2387
 msgid "Minimum required version:"
@@ -199,12 +203,12 @@ msgstr "要更新"
 
 #: class-tgm-plugin-activation.php:2227
 msgid "Update recommended"
-msgstr ""
+msgstr "更新を推奨"
 
 #: class-tgm-plugin-activation.php:2235
 msgctxt "%1$s = install status, %2$s = update status"
 msgid "%1$s, %2$s"
-msgstr ""
+msgstr "%1$s、%2$s"
 
 #: class-tgm-plugin-activation.php:2280
 msgctxt "plugins"
@@ -215,7 +219,7 @@ msgstr[0] "すべて <span class=\"count\">(%s)</span>"
 #: class-tgm-plugin-activation.php:347
 msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
 msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
-msgstr[0] ""
+msgstr[0] "申し訳ありませんが、あなたは%1$sプラグインをインストールするための適切な権限がありません。"
 
 #: class-tgm-plugin-activation.php:357
 msgid "There is an update available for: %1$s."
@@ -224,17 +228,17 @@ msgstr[0] "プラグインの更新が利用可能です (%1$s) 。"
 
 #: class-tgm-plugin-activation.php:402
 msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
-msgstr ""
+msgstr "プラグインを有効化できませんでした。このテーマには新しいバージョンの %s が必要です。プラグインを更新してください。"
 
 #: class-tgm-plugin-activation.php:362
 msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
 msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
-msgstr[0] ""
+msgstr[0] "申し訳ありませんが、あなたは%1$sプラグインを更新するための適切な権限がありません。"
 
 #: class-tgm-plugin-activation.php:377
 msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
 msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
-msgstr[0] ""
+msgstr[0] "申し訳ありませんが、あなたは%1$sプラグインを有効化するための適切な権限がありません。"
 
 #: class-tgm-plugin-activation.php:387
 msgid "Begin updating plugin"
@@ -251,7 +255,7 @@ msgstr "ヘルプが必要な場合はこのサイトの管理者にお問い合
 
 #: class-tgm-plugin-activation.php:520
 msgid "This plugin needs to be updated to be compatible with your theme."
-msgstr ""
+msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
 
 #: class-tgm-plugin-activation.php:521
 msgid "Update Required"
@@ -259,19 +263,19 @@ msgstr "更新する必要があります"
 
 #: class-tgm-plugin-activation.php:635
 msgid "Set the parent_slug config variable instead."
-msgstr ""
+msgstr "代わりに parent_slug の設定変数を設定してください。"
 
 #: class-tgm-plugin-activation.php:935
 msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
-msgstr ""
+msgstr "リモートプラグインパッケージには、指定されたスラッグのフォルダがないため、名前の変更ができませんでした。"
 
 #: class-tgm-plugin-activation.php:935 class-tgm-plugin-activation.php:938
 msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
-msgstr ""
+msgstr "プラグイン開発者に連絡し、WordPress のガイドラインに従ってプラグインをパッケージ化するように依頼してください。"
 
 #: class-tgm-plugin-activation.php:938
 msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
-msgstr ""
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルは1つのフォルダ内にパッケージされていません。"
 
 #: class-tgm-plugin-activation.php:1116 class-tgm-plugin-activation.php:2828
 msgctxt "plugin A *and* plugin B"
@@ -309,7 +313,7 @@ msgstr "検索"
 
 #: page.php:14
 msgid "Continue reading <span class=\"meta-nav\">...</span>"
-msgstr ""
+msgstr "続きを読む <span class=\"meta-nav\">...</span>"
 
 #: search.php:3
 msgid "Search Results for: %s"
@@ -442,35 +446,35 @@ msgstr "1件のコメント"
 
 #: inc/customize.php:339 inc/customize.php:387
 msgid "Hide Featured Image"
-msgstr ""
+msgstr "ヘッダー画像を隠す"
 
 #: inc/customize.php:353 inc/customize.php:401
 msgid "Hide Metadata"
-msgstr ""
+msgstr "詳細を隠す"
 
 #: inc/customize.php:367
 msgid "Hide Author Box"
-msgstr ""
+msgstr "著者ボックスを隠す"
 
 #: inc/customize.php:375
 msgid "Archive Pages"
-msgstr ""
+msgstr "アーカイブページ"
 
 #: inc/customize.php:415
 msgid "Show Post Excerpt"
-msgstr ""
+msgstr "投稿の抜粋を表示"
 
 #. translators: 1: Permalink, 2: Computer-friendly published date, 3:
 #. User-friendly published date, 4: Author archive link, 5: Author name
 #: inc/template-tags.php:22
 msgid "<span class=\"entry-date\"><a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date published\" datetime=\"%2$s\" itemprop=\"datepublished\">%3$s</time></a></span> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" rel=\"author\" itemprop=\"url\">%5$s</a></span>"
-msgstr ""
+msgstr "<span class=\"entry-date\"><a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date published\" datetime=\"%2$s\" itemprop=\"datepublished\">%3$s</time></a></span> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" rel=\"author\" itemprop=\"url\">%5$s</a></span>"
 
 #. translators: 1: Permalink, 2: Computer-friendly published date, 3:
 #. User-friendly published date, 4: Author archive link, 5: Author name
 #: inc/template-tags.php:31
 msgid "<span class=\"entry-date\"><a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date published\" datetime=\"%2$s\" itemprop=\"datepublished\">%3$s</time></a></span> by <span class=\"author vcard\" itemscope itemprop=\"author\" itemtype=\"http://schema.org/Person\"><a class=\"url fn n\" href=\"%4$s\" rel=\"author\" itemprop=\"url\"><span itemprop=\"name\">%5$s</span></a></span>"
-msgstr ""
+msgstr "<span class=\"entry-date\"><a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date published\" datetime=\"%2$s\" itemprop=\"datepublished\">%3$s</time></a></span> by <span class=\"author vcard\" itemscope itemprop=\"author\" itemtype=\"http://schema.org/Person\"><a class=\"url fn n\" href=\"%4$s\" rel=\"author\" itemprop=\"url\"><span itemprop=\"name\">%5$s</span></a></span>"
 
 #: inc/template-tags.php:45
 msgid "0 Comments"
@@ -478,15 +482,15 @@ msgstr "0件のコメント"
 
 #: inc/customize.php:156 inc/customize.php:264
 msgid "Global Font Family"
-msgstr ""
+msgstr "全体のフォントファミリー"
 
 #: inc/customize.php:178 inc/customize.php:286
 msgid "Heading Font Family"
-msgstr ""
+msgstr "見出しのフォントファミリー"
 
 #: inc/customize.php:202 inc/customize.php:310
 msgid "Sub-Heading Font Family"
-msgstr ""
+msgstr "サブ見出しのフォントファミリー"
 
 #: inc/customize.php:327
 msgid "Single Post"
@@ -494,11 +498,11 @@ msgstr "単一記事の投稿"
 
 #: inc/customize.php:135 inc/customize.php:244
 msgid "Contain"
-msgstr ""
+msgstr "含める"
 
 #: inc/customize.php:136 inc/customize.php:245
 msgid "Initial"
-msgstr ""
+msgstr "初期設定"
 
 #: inc/customize.php:142 inc/customize.php:251
 msgid "Typography"
@@ -514,7 +518,7 @@ msgstr "サイドバーの背景色"
 
 #: inc/customize.php:130 inc/customize.php:239
 msgid "Background size"
-msgstr ""
+msgstr "背景サイズ"
 
 #: inc/customize.php:134 inc/customize.php:243
 msgid "Cover"
@@ -522,15 +526,15 @@ msgstr "カバー"
 
 #: inc/customize.php:79
 msgid "Both Title &amp; Logo"
-msgstr ""
+msgstr "タイトルとロゴ両方"
 
 #: inc/customize.php:90
 msgid "Site Favicon"
-msgstr ""
+msgstr "サイトのファビコン"
 
 #: inc/customize.php:49
 msgid "Site Title Font Family"
-msgstr ""
+msgstr "サイトタイトルのフォントファミリー"
 
 #: inc/customize.php:77
 msgid "Site Title"
@@ -538,15 +542,15 @@ msgstr "サイトのタイトル"
 
 #: header.php:26
 msgid "<i class=\"fa fa-gear\"></i>"
-msgstr ""
+msgstr "<i class=\"fa fa-gear\"></i>"
 
 #: header.php:27
 msgid "<i class=\"fa fa-bars\"></i>"
-msgstr ""
+msgstr "<i class=\"fa fa-bars\"></i>"
 
 #: inc/customize.php:35 inc/customize.php:78
 msgid "Site Logo"
-msgstr ""
+msgstr "サイトロゴ"
 
 #: functions.php:288
 msgid "Continue reading %s"
@@ -558,7 +562,7 @@ msgstr "全てのプラグインのインストール・有効化が完了しま
 
 #: functions.php:100
 msgid "Appears in the sidebar section of the site"
-msgstr ""
+msgstr "サイトのサイドバー項目の見た目"
 
 #: class-tgm-plugin-activation.php:336 functions.php:245
 msgid "Something went wrong with the plugin API."
@@ -570,7 +574,7 @@ msgstr "メインウィジェットエリア"
 
 #: footer.php:11
 msgid "Theme: %1$s %2$s by %3$s."
-msgstr ""
+msgstr "テーマ: %1$s %2$s by %3$s."
 
 #: functions.php:63
 msgid "Navigation Menu"
@@ -634,15 +638,15 @@ msgstr "&larr; 過去のコメント"
 
 #: comments.php:11
 msgid "<span itemprop=\"interactionCount\">0</span> comment"
-msgstr ""
+msgstr "<span itemprop=\"interactionCount\">0</span>コメント"
 
 #: comments.php:11
 msgid "<span itemprop=\"interactionCount\">1</span> comment"
-msgstr ""
+msgstr "<span itemprop=\"interactionCount\">1</span>コメント"
 
 #: comments.php:11
 msgid "<span itemprop=\"interactionCount\">%</span> comments"
-msgstr ""
+msgstr "<span itemprop=\"interactionCount\">%</span>コメント"
 
 #: comments.php:27
 msgid "Comment navigation"
@@ -841,11 +845,11 @@ msgstr "必要なプラグインをインストールする"
 
 #: archive.php:24 index.php:10 search.php:12
 msgid "<i class=\"fa fa-chevron-left\"></i>"
-msgstr ""
+msgstr "<i class=\"fa fa-chevron-left\"></i>"
 
 #: archive.php:24 index.php:10 search.php:12
 msgid "<i class=\"fa fa-chevron-right\"></i>"
-msgstr ""
+msgstr "<i class=\"fa fa-chevron-right\"></i>"
 
 #: author-bio.php:6
 msgid "About <span itemprop=\"name\">%s</span>"
@@ -865,7 +869,7 @@ msgstr "見つかりません"
 
 #. Theme URI of the plugin/theme
 msgid "https://themeisle.com/themes/flat/"
-msgstr ""
+msgstr "https://themeisle.com/themes/flat/"
 
 #. Author of the plugin/theme
 msgid "ThemeIsle"

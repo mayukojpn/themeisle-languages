@@ -2,25 +2,29 @@
 # This file is distributed under the same license as the Metro CreativeX package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-03-28 02:22:27+0000\n"
+"PO-Revision-Date: 2016-04-11 03:26+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: GlotPress/1.1.0-alpha\n"
+"X-Generator: Poedit 1.7.5\n"
 "Project-Id-Version: Metro CreativeX\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
 
 #. Theme Name of the plugin/theme
 msgid "Metro CreativeX"
-msgstr ""
+msgstr "Metro CreativeX"
 
 #. Description of the plugin/theme
 msgid "Metro CreativeX is a free metro WordPress theme, super clean,colorful,minimal and with a fully responsive design. Coded with care in HTML5 &amp; CSS3, is easy to customize and well documented.<a href=\"https://themeisle.com/forums/forum/metrox/\">Official support forum</a> (https://themeisle.com/forums/forum/metrox/)"
-msgstr ""
+msgstr "Metro CreativeX は完全レスポンシブデザインのとてもクリーン、カラフル、ミニマルな無料の地下鉄風 WordPress テーマです。HTML5 と CSS3 にこだわってコーディングし、簡単にカスタマイズ可能、ドキュメンテーションも充実しています。<a href=\"https://themeisle.com/forums/forum/metrox/\">公式サポートフォーラム</a> (https://themeisle.com/forums/forum/metrox/)"
 
 #: inc/customizer.php:81
 msgid "Choose the font that suits your page.<br/>Font picker is available in <a href=\"%s\" target=\"_blank\">Metro CustomizR</a>."
-msgstr ""
+msgstr "ページに最適なフォントを選択します。<br/><a href=\"%s\" target=\"_blank\">Metro CustomizR</a> にてフォントピッカーが利用可能です。"
 
 #: inc/customizer.php:91
 msgid "Sidebar position"
@@ -28,23 +32,23 @@ msgstr "サイドバー配置"
 
 #: inc/customizer.php:94
 msgid "Change the sidebar position.<br/>Sidebar position is available in <a href=\"%s\" target=\"_blank\">Metro CustomizR</a>."
-msgstr ""
+msgstr "サイドバーの位置を変更します。<br/><a href=\"%s\" target=\"_blank\">Metro CustomizR</a>にてサイトバーポジションが利用可能です。"
 
 #: inc/customizer.php:110
 msgid "Add new social icon"
-msgstr ""
+msgstr "新しいソーシャルアイコンを追加"
 
 #: inc/customizer.php:113
 msgid "More icons?<br/>Icon repeater is available in <a href=\"%s\" target=\"_blank\">Metro CustomizR</a>."
-msgstr ""
+msgstr "アイコンを追加するには<br/>アイコンの追加が <a href=\"%s\" target=\"_blank\">Metro CustomizR</a> で利用可能です。"
 
 #: inc/customizer.php:139
 msgid "Change the color scheme"
-msgstr ""
+msgstr "配色パターンを変更"
 
 #: inc/customizer.php:142
 msgid "Change all colors with just two clicks.<br/>Pallete picker is available in <a href=\"%s\" target=\"_blank\">Metro CustomizR</a>."
-msgstr ""
+msgstr "すべてのカラーを2クリックだけで変更します。<br/><a href=\"%s\" target=\"_blank\">Metro CustomizR</a> でパレットピッカーが利用可能です。"
 
 #: inc/customizer.php:78
 msgid "Font"
@@ -60,47 +64,47 @@ msgstr "プラグインの更新: %1$s (%2$d/%3$d)"
 
 #: functions.php:487
 msgid "Get unlimited customization possibilities"
-msgstr ""
+msgstr "制限なしのカスタマイズを可能にする。"
 
 #: functions.php:488
 msgid "Fonts, colors, layout, everything is customizable. Super easy, super fast!"
-msgstr ""
+msgstr "フォント、カラー、レイアウト、すべてがカスタマイズ可能です。Super easy, super fast!"
 
 #: functions.php:489
 msgid "Get Metro CustomizR now!"
-msgstr ""
+msgstr "Metro CustomizR を入手する。"
 
 #: functions.php:494
 msgid "What You Will Get"
-msgstr ""
+msgstr "含まれるもの"
 
 #: functions.php:498
 msgid "Metro CustomizR is an addon plugin for Metro CreativeX that allows you to customize your theme the way you want. No more child themes or support needed. Just install it and you're ready to customize your website. Easy peasy!"
-msgstr ""
+msgstr "Metro CustomizR はテーマをお好みにカスタマイズする Metro CreativeX のための追加機能プラグインです。もう子テーマもサポートも不要です。インストールするだけで、すぐカスタマイズできます。Easy peasy!"
 
 #: functions.php:505
 msgid "Palette picker"
-msgstr ""
+msgstr "パレットピッカー"
 
 #: functions.php:506
 msgid "Change your page colors in just a few clicks with our palette picker control."
-msgstr ""
+msgstr "パレットピッカー設定で、ページカラーを数クリックで変更できます。"
 
 #: functions.php:510
 msgid "Individual post color"
-msgstr ""
+msgstr "独立した投稿の色"
 
 #: functions.php:511
 msgid "No more child theme required.Customize each post background color."
-msgstr ""
+msgstr "子テーマはもはや必要ありません。投稿ごとの背景色をカスタマイズします。"
 
 #: functions.php:517
 msgid "Website layout"
-msgstr ""
+msgstr "サイトレイアウト"
 
 #: functions.php:518
 msgid "With just one click you can change the sidebar position."
-msgstr ""
+msgstr "1クリックのみでサイドバーの位置を変更できます。"
 
 #: functions.php:522
 msgid "Fonts"
@@ -108,12 +112,12 @@ msgstr "フォント"
 
 #: functions.php:523
 msgid "Choose from over 100 fonts to style your page."
-msgstr ""
+msgstr "ページのスタイルを100以上のフォントから選択します。"
 
 #: class-tgm-plugin-activation.php:2495
 msgctxt "%2$s = plugin name in screen reader markup"
 msgid "Update %2$s"
-msgstr ""
+msgstr "%2$s を更新"
 
 #: class-tgm-plugin-activation.php:2500
 msgctxt "%2$s = plugin name in screen reader markup"
@@ -130,11 +134,11 @@ msgstr "更新"
 
 #: class-tgm-plugin-activation.php:2643
 msgid "No plugins were selected to be installed. No action taken."
-msgstr ""
+msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
 
 #: class-tgm-plugin-activation.php:2645
 msgid "No plugins were selected to be updated. No action taken."
-msgstr ""
+msgstr "更新するプラグインが選択されていません。何も実行しませんでした。"
 
 #: class-tgm-plugin-activation.php:2683
 msgid "No plugins are available to be updated at this time."
@@ -142,7 +146,7 @@ msgstr "現在更新できるプラグインはありません。"
 
 #: class-tgm-plugin-activation.php:2788
 msgid "No plugins were selected to be activated. No action taken."
-msgstr ""
+msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
 
 #: class-tgm-plugin-activation.php:2289
 msgid "To Activate <span class=\"count\">(%s)</span>"
@@ -199,12 +203,12 @@ msgstr "要更新"
 
 #: class-tgm-plugin-activation.php:2227
 msgid "Update recommended"
-msgstr ""
+msgstr "更新を推奨"
 
 #: class-tgm-plugin-activation.php:2235
 msgctxt "%1$s = install status, %2$s = update status"
 msgid "%1$s, %2$s"
-msgstr ""
+msgstr "%1$s、%2$s"
 
 #: class-tgm-plugin-activation.php:2280
 msgctxt "plugins"
@@ -215,7 +219,7 @@ msgstr[0] "すべて <span class=\"count\">(%s)</span>"
 #: class-tgm-plugin-activation.php:347
 msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
 msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
-msgstr[0] ""
+msgstr[0] "申し訳ありませんが、あなたは%1$sプラグインをインストールするための適切な権限がありません。"
 
 #: class-tgm-plugin-activation.php:357
 msgid "There is an update available for: %1$s."
@@ -225,12 +229,12 @@ msgstr[0] "プラグインの更新が利用可能です (%1$s) 。"
 #: class-tgm-plugin-activation.php:362
 msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
 msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
-msgstr[0] ""
+msgstr[0] "申し訳ありませんが、あなたは%1$sプラグインを更新するための適切な権限がありません。"
 
 #: class-tgm-plugin-activation.php:377
 msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
 msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
-msgstr[0] ""
+msgstr[0] "申し訳ありませんが、あなたは%1$sプラグインを有効化するための適切な権限がありません。"
 
 #: class-tgm-plugin-activation.php:387
 msgid "Begin updating plugin"
@@ -243,7 +247,7 @@ msgstr "操作を実行しませんでした。プラグイン %1$s はすでに
 
 #: class-tgm-plugin-activation.php:402
 msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
-msgstr ""
+msgstr "プラグインを有効化できませんでした。このテーマには新しいバージョンの %s が必要です。プラグインを更新してください。"
 
 #: class-tgm-plugin-activation.php:405
 msgid "Please contact the administrator of this site for help."
@@ -251,7 +255,7 @@ msgstr "ヘルプが必要な場合はこのサイトの管理者にお問い合
 
 #: class-tgm-plugin-activation.php:520
 msgid "This plugin needs to be updated to be compatible with your theme."
-msgstr ""
+msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
 
 #: class-tgm-plugin-activation.php:521
 msgid "Update Required"
@@ -259,19 +263,19 @@ msgstr "更新する必要があります"
 
 #: class-tgm-plugin-activation.php:635
 msgid "Set the parent_slug config variable instead."
-msgstr ""
+msgstr "代わりに parent_slug の設定変数を設定してください。"
 
 #: class-tgm-plugin-activation.php:935
 msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
-msgstr ""
+msgstr "リモートプラグインパッケージには、指定されたスラッグのフォルダがないため、名前の変更ができませんでした。"
 
 #: class-tgm-plugin-activation.php:935 class-tgm-plugin-activation.php:938
 msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
-msgstr ""
+msgstr "プラグイン開発者に連絡し、WordPress のガイドラインに従ってプラグインをパッケージ化するように依頼してください。"
 
 #: class-tgm-plugin-activation.php:938
 msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
-msgstr ""
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルは1つのフォルダ内にパッケージされていません。"
 
 #: class-tgm-plugin-activation.php:1116 class-tgm-plugin-activation.php:2828
 msgctxt "plugin A *and* plugin B"
@@ -301,7 +305,7 @@ msgstr "投稿の編集"
 
 #: index.php:13
 msgid "404 - not found"
-msgstr ""
+msgstr "404 -見つかりません"
 
 #: page.php:18
 msgid "Edit page"
@@ -309,7 +313,7 @@ msgstr "固定ページを編集"
 
 #: search.php:3
 msgid "Search Results for: "
-msgstr ""
+msgstr "検索結果: "
 
 #: searchform.php:9
 msgctxt "label"
@@ -318,13 +322,15 @@ msgstr "検索:"
 
 #: inc/customizer.php:33
 msgid "ThemeIsle theme notes"
-msgstr ""
+msgstr "ThemeIsle テーマからのお知らせ"
 
 #: inc/customizer.php:34
 msgid ""
 "Thank you for being part of this! We've spent almost 6 months building ThemeIsle without really knowing if anyone will ever use a theme or not, so we're very grateful that you've decided to work with us. Wanna <a href='http://themeisle.com/contact/' target='_blank'>say hi</a>?\n"
 "\t\t<br/><br/><a href='http://themeisle.com/demo/?theme=MetroX' target='_blank'>View Theme Demo</a> | <a href='https://themeisle.com/forums/forum/metrox/' target='_blank'>Get theme support</a>"
 msgstr ""
+"テーマのご利用ありがとうございます！私たちは、ThemeIsle を本当に誰かが使ってくれるかどうかわからないまま、6ヶ月を費やして制作しました。あなたが私たちと一緒に取り組んでいただくことを決めていただき本当に光栄です。ぜひ <a href='http://themeisle.com/contact/' target='_blank'>声をかけてください</a>。\n"
+"\t\t<br/><br/><a href='http://themeisle.com/demo/?theme=MetroX' target='_blank'>テーマのデモを見る</a> | <a href='https://themeisle.com/forums/forum/metrox/' target='_blank'>テーマのサポートを受ける</a>"
 
 #: inc/customizer.php:49 inc/customizer.php:59
 msgid "Logo"
@@ -332,7 +338,7 @@ msgstr "ロゴ"
 
 #: inc/customizer.php:51
 msgid "Upload a logo to replace the default site name and description in the header"
-msgstr ""
+msgstr "ロゴをアップロードして、ヘッダーの標準のサイト名と説明を置き換える"
 
 #: inc/customizer.php:100
 msgid "Socials"
@@ -348,31 +354,31 @@ msgstr "Twitter リンク"
 
 #: inc/customizer.php:155
 msgid "Texts color"
-msgstr ""
+msgstr "テキストの色"
 
 #: inc/customizer.php:171
 msgid "Links color"
-msgstr ""
+msgstr "リンクの色"
 
 #: inc/customizer.php:187
 msgid "Links color - hover"
-msgstr ""
+msgstr "リンクのホバー時の色 "
 
 #: inc/customizer.php:203
 msgid "Navigation menu color"
-msgstr ""
+msgstr "ナビゲーションメニューの色"
 
 #: inc/customizer.php:219
 msgid "Navigation menu color - hover"
-msgstr ""
+msgstr "ナビゲーションメニューのホバー時の色 "
 
 #: inc/customizer.php:235
 msgid "Sidebar title color"
-msgstr ""
+msgstr "サイドバータイトルの色"
 
 #: functions.php:437
 msgid "Latest articles"
-msgstr ""
+msgstr "最新記事"
 
 #: header.php:83
 msgid "Menu"
@@ -425,11 +431,11 @@ msgstr "ページ %s"
 
 #: footer.php:7
 msgid "Powered by <a href=\"%s\">WordPress</a>"
-msgstr ""
+msgstr "%s を利用しています"
 
 #: footer.php:8
 msgid "Theme by <a rel=\"nofollow\" target=\"_blank\" href=\"%s\">ThemeIsle</a>"
-msgstr ""
+msgstr "テーマ作者: <a rel=\"nofollow\" target=\"_blank\" href=\"%s\">ThemeIsle</a>"
 
 #: functions.php:19
 msgid "Header menu"
@@ -695,11 +701,11 @@ msgstr "日別アーカイブ: %s"
 
 #. Theme URI of the plugin/theme
 msgid "https://themeisle.com/themes/metrox/"
-msgstr ""
+msgstr "https://themeisle.com/themes/metrox/"
 
 #. Author of the plugin/theme
 msgid "themeisle"
-msgstr ""
+msgstr "themeisle"
 
 #. Author URI of the plugin/theme
 msgid "https://themeisle.com"

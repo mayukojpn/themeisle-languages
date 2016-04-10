@@ -2,21 +2,25 @@
 # This file is distributed under the same license as the Illyria package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-08-03 23:37:39+0000\n"
+"PO-Revision-Date: 2016-04-10 23:36+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: GlotPress/1.1.0-alpha\n"
+"X-Generator: Poedit 1.7.5\n"
 "Project-Id-Version: Illyria\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
 
 #. Theme Name of the plugin/theme
 msgid "Illyria"
-msgstr ""
+msgstr "Illyria"
 
 #. Description of the plugin/theme
 msgid "Illyria is a beautiful multi purpose theme, excelent for lawyers or any other business domain, with many options for customization."
-msgstr ""
+msgstr "Illyria は弁護士やその他のビジネス分野にぴったりの、たくさんのカスタマイズ設定を備えた美しい多目的テーマです。"
 
 #. Author of the plugin/theme
 msgid "Themeisle"
