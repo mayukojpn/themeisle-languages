@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Amadeus package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-04-09 06:42+0900\n"
+"PO-Revision-Date: 2016-04-12 19:11+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,11 +16,11 @@ msgstr ""
 
 #. Description of the plugin/theme
 msgid "Amadeus is a responsive blog theme that features a modern and clean design. Features include: a parallax header image, Metaslider integration, ability to use Google Fonts, social icons, full color control, custom widgets and much more."
-msgstr "アマデウスはモダンでクリーンなデザインを備えたレスポンシブなブログテーマです。パララックスヘッダー画像、メタスライダーの一体化、Google フォント利用、ソーシャルアイコン、フルカラー制御、カスタムウィジェットなどの機能があります。"
+msgstr "Amadeus はモダンでクリーンなデザインを備えたレスポンシブなブログテーマです。パララックスヘッダー画像、メタスライダーの一体化、Google フォント利用、ソーシャルアイコン、フルカラー制御、カスタムウィジェットなどの機能があります。"
 
 #. Theme Name of the plugin/theme
 msgid "Amadeus"
-msgstr "アマデウス"
+msgstr "Amadeus"
 
 #: functions.php:235
 msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
@@ -79,7 +79,7 @@ msgstr "プラグインをインストール、有効化しています: %1$s (%
 
 #: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
 msgid "Hide Details"
-msgstr "詳細を隠す"
+msgstr "詳細を非表示"
 
 #: class-tgm-plugin-activation.php:3370 class-tgm-plugin-activation.php:3376
 msgid "Show Details"
@@ -753,11 +753,11 @@ msgstr "メインカラー"
 
 #: inc/customizer.php:432
 msgid "Hide featured images on index, archives?"
-msgstr "ヘッダー画像をトップページ・アーカイブページで隠す。"
+msgstr "ヘッダー画像をトップページ・アーカイブページで非表示にします。"
 
 #: inc/customizer.php:448
 msgid "Hide featured images on single posts?"
-msgstr "ヘッダー画像を個別ページで隠す。"
+msgstr "ヘッダー画像を個別ページで非表示にします。"
 
 #: inc/customizer.php:416
 msgid "Display the full content of your posts on index?"
@@ -765,15 +765,15 @@ msgstr "トップページで投稿のコンテンツを全て表示する。"
 
 #: inc/customizer.php:399
 msgid "Hide the sidebar on single posts and pages?"
-msgstr "サイドバーを個別投稿・固定ページで隠す。"
+msgstr "サイドバーを個別投稿・固定ページで非表示にします。"
 
 #: inc/customizer.php:367
 msgid "Hide date/author/archives on single posts?"
-msgstr "個別投稿ページの日付/著者/アーカイブを隠す。"
+msgstr "個別投稿ページの日付・著者・アーカイブを非表示にします。"
 
 #: inc/customizer.php:351
 msgid "Hide date/author/archives on index?"
-msgstr "トップページの日付/著者/アーカイブを隠す。"
+msgstr "トップページの日付・著者・アーカイブを非表示にします。"
 
 #: inc/customizer.php:330
 msgid "Excerpt lenght"
@@ -789,7 +789,7 @@ msgstr "ブログ設定"
 
 #: inc/customizer.php:304
 msgid "Hide the animated scroll arrow from the header image?"
-msgstr "アニメーションスクロールの矢印をヘッダー画像から隠す。"
+msgstr "アニメーションスクロールの矢印をヘッダー画像で非表示にします。"
 
 #: inc/customizer.php:263
 msgid "Header image height"

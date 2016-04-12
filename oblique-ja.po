@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Oblique package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-04-11 01:55+0900\n"
+"PO-Revision-Date: 2016-04-12 19:45+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,7 +20,7 @@ msgstr "Oblique"
 
 #. Description of the plugin/theme
 msgid "Oblique is a creative masonry theme that works great for fashion or general bloggers. Amongst the features you will find a a parallax header image, full color control with unlimited color variations, easy access to all Google Fonts, responsive design etc."
-msgstr "Oblique は創造的なレンガ積みレイアウトのテーマで、ファッションや一般的なブログに役立ちます。パララックス効果のヘッダー画像、フルカラーの配色設定による無限のカラーバリエーション、Google Fonts の簡単な追加、レスポンシブデザインなどを備えています。"
+msgstr "Oblique は創造的なレンガ積みレイアウトのテーマで、ファッションや一般的なブログに役立ちます。パララックス効果のヘッダー画像、フルカラーの配色設定による無限のカラーバリエーション、Google フォントの簡単な追加、レスポンシブデザインなどを備えています。"
 
 #: inc/customizer.php:884
 msgid "GitHub"
@@ -32,7 +32,7 @@ msgstr "レビューを書く"
 
 #: inc/customizer.php:886
 msgid "Documentation"
-msgstr "文書"
+msgstr "ドキュメンテーション"
 
 #: functions.php:186
 msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
@@ -428,11 +428,11 @@ msgstr "必要なプラグインをインストール"
 
 #: inc/customizer.php:54
 msgid "Toggle a search form in the header?"
-msgstr "ヘッダーの検索フォームをたたむ。"
+msgstr "ヘッダーの検索フォームを切り替える。"
 
 #: inc/customizer.php:826
 msgid "To create a social profile like in the theme demo, do this:<br><ol><li>Go to Appearance > Menus;</li><li>Create a new menu and add links to your social networks by using the Custom Links tab;</li><li>Assign that newly created menu to the Social position.</li></ol>"
-msgstr "テーマのデモのような SNS プロフィールを作成するには:<br><ol><li>「外観」>「メニュー」を選びます。</li><li>新しいメニューを作成し、カスタムリンクを使って SNS のリンクを追加します。</li><li>作ったメニューをソーシャルポジションに追加します。</li></ol>"
+msgstr "テーマのデモのような SNS プロフィールを作成するには:<br><ol><li>「外観」>「メニュー」を選びます。</li><li>新しいメニューを作成し、カスタムリンクを使って SNS のリンクを追加します。</li><li>作ったメニューの位置を SNS に登録します。</li></ol>"
 
 #: inc/customizer.php:71
 msgid "You can use this to replace the menu toggle button with some text"
@@ -604,7 +604,7 @@ msgstr "全体のフォントサイズ"
 
 #: inc/customizer.php:631
 msgid "Primary color"
-msgstr "プライマリーの色"
+msgstr "メインカラー"
 
 #: inc/customizer.php:693
 msgid "Body text"
@@ -784,7 +784,7 @@ msgstr "http://ja.wordpress.org/"
 
 #: functions.php:56 inc/customizer.php:824
 msgid "Social"
-msgstr "ソーシャル"
+msgstr "SNS"
 
 #: functions.php:90
 msgid "Sidebar"

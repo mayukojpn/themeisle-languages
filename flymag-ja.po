@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the FlyMag package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-04-11 02:18+0900\n"
+"PO-Revision-Date: 2016-04-12 19:47+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -37,7 +37,7 @@ msgstr "レビューを書く"
 
 #: inc/customizer.php:1308
 msgid "Documentation"
-msgstr "文書"
+msgstr "ドキュメンテーション"
 
 #: functions.php:285
 msgid "All plugins installed and activated successfully. %s"
@@ -827,7 +827,7 @@ msgstr "フォントサイズ"
 
 #: inc/customizer.php:572
 msgid "You can use any Google Fonts you want for the heading and/or body. See the fonts here: google.com/fonts. See the documentation if you need help with this: flyfreemedia.com/documentation/flymag"
-msgstr "見出しや本文に Google フォントを使用できます。ここでフォントを参照してください: google.com/fonts。ヘルプが必要な場合はマニュアルを参照してください: flyfreemedia.com/documentation/amadeus"
+msgstr "見出しや本文に Google フォントを使用できます。ここでフォントを参照してください: google.com/fonts。ヘルプが必要な場合はマニュアルを参照してください: flyfreemedia.com/documentation/flymag"
 
 #: inc/customizer.php:583
 msgid "Body fonts"

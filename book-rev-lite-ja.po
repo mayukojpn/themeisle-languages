@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Book Rev Lite package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-04-11 02:05+0900\n"
+"PO-Revision-Date: 2016-04-13 00:44+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -351,7 +351,7 @@ msgstr "レイアウトの種類"
 
 #: inc/cc_settings.php:1686
 msgid "Main Page Background Colors"
-msgstr "メイン ページの背景色"
+msgstr "メインページの背景色"
 
 #: inc/cc_settings.php:1688
 msgid "For more color customization options check out the <a href='https://themeisle.com/themes/bookrev/'>PRO version</a>!"
@@ -407,11 +407,11 @@ msgstr "ウィジェットヘッダー上部ボーダーの背景色 "
 
 #: inc/cc_settings.php:2306
 msgid "Typography"
-msgstr "文字装飾"
+msgstr "タイポグラフィー"
 
 #: inc/cc_settings.php:2308
 msgid "Change the typography of your theme and the color of your content the way you want."
-msgstr "テーマの書式設定コンテンツの色をお好みに変更します。"
+msgstr "テーマの書式設定とコンテンツの色をお好みに変更します。"
 
 #: inc/cc_settings.php:2379
 msgid "Primary Font (Titles)"
@@ -503,7 +503,7 @@ msgstr "背景色"
 
 #: inc/cc_settings.php:50
 msgid "Default Post Featured Image"
-msgstr "標準の投稿の特集画像"
+msgstr "標準の投稿の特集用画像"
 
 #: inc/cc_settings.php:82
 msgid "Default Product Image"
@@ -523,7 +523,7 @@ msgstr "<a href=\"https://themeisle.com/themes/bookrev/\">PRO バージョン</a
 
 #: inc/cc_settings.php:150
 msgid "BookRev Featured Reviews widget"
-msgstr "BookRev おすすめレビュー ウィジェット"
+msgstr "BookRev 特集レビューウィジェット"
 
 #: inc/cc_settings.php:152
 msgid "This widget displays the latest reviews from a specific category."
@@ -563,7 +563,7 @@ msgstr "最上部バーのメニュー"
 
 #: class-tgm-plugin-activation.php:336 functions.php:146
 msgid "Something went wrong with the plugin API."
-msgstr "plugin API　で問題が発生しました"
+msgstr "Plugin API で問題が発生しました"
 
 #: functions.php:166
 msgid "Activate installed plugin"

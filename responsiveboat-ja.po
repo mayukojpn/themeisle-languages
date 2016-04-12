@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the ResponsiveBoat package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-04-11 01:43+0900\n"
+"PO-Revision-Date: 2016-04-18 08:02+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -120,15 +120,15 @@ msgstr "タイトル"
 
 #: functions.php:80 sections/about_you.php:8
 msgid "About you"
-msgstr "「当社について」"
+msgstr "当社について"
 
 #: functions.php:73
 msgid "Hide about you section?"
-msgstr "「当社について」セクションを非表示にします。"
+msgstr "当社についてセクションを非表示にします。"
 
 #: functions.php:63
 msgid "About you section"
-msgstr "「当社について」セクション"
+msgstr "当社についてセクション"
 
 #: functions.php:42 functions.php:51
 msgid "Header Logo"

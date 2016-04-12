@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Metro CreativeX package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-04-11 03:26+0900\n"
+"PO-Revision-Date: 2016-04-13 00:34+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -40,7 +40,7 @@ msgstr "新しいソーシャルアイコンを追加"
 
 #: inc/customizer.php:113
 msgid "More icons?<br/>Icon repeater is available in <a href=\"%s\" target=\"_blank\">Metro CustomizR</a>."
-msgstr "アイコンを追加するには<br/>アイコンの追加が <a href=\"%s\" target=\"_blank\">Metro CustomizR</a> で利用可能です。"
+msgstr "アイコンを追加するには<br/><a href=\"%s\" target=\"_blank\">Metro CustomizR</a> でアイコンの追加が利用可能です。"
 
 #: inc/customizer.php:139
 msgid "Change the color scheme"
