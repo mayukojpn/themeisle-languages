@@ -2,17 +2,13 @@
 # This file is distributed under the same license as the Lawyeria Lite package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-04-13 00:14+0900\n"
+"PO-Revision-Date: 2016-04-12 15:15:29+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 1.7.5\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
 "Project-Id-Version: Lawyeria Lite\n"
-"POT-Creation-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: ja\n"
 
 #. Theme Name of the plugin/theme
 msgid "Lawyeria Lite"
@@ -26,6 +22,18 @@ msgstr "Lawyeria Lite は無料の弁護士向け WordPress テーマで、と�
 msgid "Updating Plugin %1$s (%2$d/%3$d)"
 msgstr "プラグインの更新: %1$s (%2$d/%3$d)"
 
+#: class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "現時点でインストールできるプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr "現時点で有効化できるプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "現在更新できるプラグインはありません。"
+
 #: class-tgm-plugin-activation.php:2643
 msgid "No plugins were selected to be installed. No action taken."
 msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
@@ -34,21 +42,17 @@ msgstr "インストールするプラグインが選択されていません。
 msgid "No plugins were selected to be updated. No action taken."
 msgstr "更新するプラグインが選択されていません。何も実行しませんでした。"
 
-#: class-tgm-plugin-activation.php:2681
-msgid "No plugins are available to be installed at this time."
-msgstr "現時点でインストールできるプラグインはありません。"
-
-#: class-tgm-plugin-activation.php:2683
-msgid "No plugins are available to be updated at this time."
-msgstr "現在更新できるプラグインはありません。"
-
 #: class-tgm-plugin-activation.php:2788
 msgid "No plugins were selected to be activated. No action taken."
 msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
 
-#: class-tgm-plugin-activation.php:2814
-msgid "No plugins are available to be activated at this time."
-msgstr "現時点で有効化できるプラグインはありません。"
+#: class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr "更新"
+
+#: class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr "プラグイン作者からの更新メッセージ:"
 
 #: class-tgm-plugin-activation.php:2491
 msgctxt "%2$s = plugin name in screen reader markup"
@@ -65,14 +69,6 @@ msgctxt "%2$s = plugin name in screen reader markup"
 msgid "Activate %2$s"
 msgstr "%2$s を有効化"
 
-#: class-tgm-plugin-activation.php:2570
-msgid "Upgrade message from the plugin author:"
-msgstr "プラグイン作者からの更新メッセージ:"
-
-#: class-tgm-plugin-activation.php:2609
-msgid "Update"
-msgstr "更新"
-
 #: class-tgm-plugin-activation.php:2283
 msgid "To Install <span class=\"count\">(%s)</span>"
 msgid_plural "To Install <span class=\"count\">(%s)</span>"
@@ -88,14 +84,13 @@ msgid "To Activate <span class=\"count\">(%s)</span>"
 msgid_plural "To Activate <span class=\"count\">(%s)</span>"
 msgstr[0] "使用中 <span class=\"count\">(%s)</span>"
 
-#: class-tgm-plugin-activation.php:2371
-msgctxt "as in: \"version nr unknown\""
-msgid "unknown"
-msgstr "不明"
+#: class-tgm-plugin-activation.php:2422
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "インストール・更新・有効化するべきプラグインはありません。<a href=\"%1$s\">ダッシュボードに戻る</a>"
 
-#: class-tgm-plugin-activation.php:2379
-msgid "Installed version:"
-msgstr "インストールされているバージョン:"
+#: class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr "バージョン"
 
 #: class-tgm-plugin-activation.php:2387
 msgid "Minimum required version:"
@@ -105,33 +100,66 @@ msgstr "最低要求バージョン:"
 msgid "Available version:"
 msgstr "利用可能なバージョン:"
 
-#: class-tgm-plugin-activation.php:2422
-msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
-msgstr "インストール・更新・有効化するべきプラグインはありません。<a href=\"%1$s\">ダッシュボードに戻る</a>"
+#: class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明"
 
-#: class-tgm-plugin-activation.php:2442
-msgid "Version"
-msgstr "バージョン"
+#: class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "インストールされているバージョン:"
 
-#: class-tgm-plugin-activation.php:401
-msgid "No action taken. Plugin %1$s was already active."
-msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効化されています。"
+#: class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "更新する必要があります"
 
-#: class-tgm-plugin-activation.php:402
-msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
-msgstr "プラグインを有効化できませんでした。このテーマには新しいバージョンの %s が必要です。プラグインを更新してください。"
+#: class-tgm-plugin-activation.php:1116 class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "と"
+
+#: class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr "有効"
+
+#: class-tgm-plugin-activation.php:2280
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "すべて <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr "外部ソース"
+
+#: class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "要更新"
+
+#: class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "必要な更新が利用できません"
 
 #: class-tgm-plugin-activation.php:405
 msgid "Please contact the administrator of this site for help."
 msgstr "ヘルプが必要な場合はこのサイトの管理者にお問い合わせください。"
 
+#: class-tgm-plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効化されています。"
+
+#: class-tgm-plugin-activation.php:1881
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:402
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "プラグインを有効化できませんでした。このテーマには新しいバージョンの %s が必要です。プラグインを更新してください。"
+
 #: class-tgm-plugin-activation.php:520
 msgid "This plugin needs to be updated to be compatible with your theme."
 msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
-
-#: class-tgm-plugin-activation.php:521
-msgid "Update Required"
-msgstr "更新する必要があります"
 
 #: class-tgm-plugin-activation.php:635
 msgid "Set the parent_slug config variable instead."
@@ -149,32 +177,6 @@ msgstr "プラグイン開発者に連絡し、WordPress のガイドライン�
 msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
 msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルは1つのフォルダ内にパッケージされていません。"
 
-#: class-tgm-plugin-activation.php:1116 class-tgm-plugin-activation.php:2828
-msgctxt "plugin A *and* plugin B"
-msgid "and"
-msgstr "と"
-
-#: class-tgm-plugin-activation.php:1881
-msgctxt "%s = version number"
-msgid "TGMPA v%s"
-msgstr "TGMPA v%s"
-
-#: class-tgm-plugin-activation.php:2189
-msgid "External Source"
-msgstr "外部ソース"
-
-#: class-tgm-plugin-activation.php:2215
-msgid "Active"
-msgstr "有効"
-
-#: class-tgm-plugin-activation.php:2221
-msgid "Required Update not Available"
-msgstr "必要な更新が利用できません"
-
-#: class-tgm-plugin-activation.php:2224
-msgid "Requires Update"
-msgstr "要更新"
-
 #: class-tgm-plugin-activation.php:2227
 msgid "Update recommended"
 msgstr "更新を推奨"
@@ -183,32 +185,6 @@ msgstr "更新を推奨"
 msgctxt "%1$s = install status, %2$s = update status"
 msgid "%1$s, %2$s"
 msgstr "%1$s, %2$s"
-
-#: class-tgm-plugin-activation.php:2280
-msgctxt "plugins"
-msgid "All <span class=\"count\">(%s)</span>"
-msgid_plural "All <span class=\"count\">(%s)</span>"
-msgstr[0] "すべて <span class=\"count\">(%s)</span>"
-
-#: class-tgm-plugin-activation.php:347
-msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
-msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
-msgstr[0] "申し訳ありませんが、あなたは%1$sプラグインをインストールするための適切な権限がありません。"
-
-#: class-tgm-plugin-activation.php:357
-msgid "There is an update available for: %1$s."
-msgid_plural "There are updates available for the following plugins: %1$s."
-msgstr[0] "プラグインの更新が利用可能です (%1$s) 。"
-
-#: class-tgm-plugin-activation.php:362
-msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
-msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
-msgstr[0] "申し訳ありませんが、あなたは%1$sプラグインを更新するための適切な権限がありません。"
-
-#: class-tgm-plugin-activation.php:377
-msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
-msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
-msgstr[0] "申し訳ありませんが、あなたは%1$sプラグインを有効化するための適切な権限がありません。"
 
 #: class-tgm-plugin-activation.php:387
 msgid "Begin updating plugin"
@@ -224,9 +200,35 @@ msgstr[0] "プラグインのアクティブ化を開始"
 msgid "Return to the dashboard"
 msgstr "ダッシュボードに戻る"
 
+#: class-tgm-plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "プラグインの更新が利用可能です (%1$s) 。"
+
+#: class-tgm-plugin-activation.php:347
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "申し訳ありませんが、あなたは%1$sプラグインをインストールするための適切な権限がありません。"
+
+#: class-tgm-plugin-activation.php:362
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "申し訳ありませんが、あなたは%1$sプラグインを更新するための適切な権限がありません。"
+
+#: class-tgm-plugin-activation.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "申し訳ありませんが、あなたは%1$sプラグインを有効化するための適切な権限がありません。"
+
 #: single.php:41
 msgid "Pages:"
 msgstr "ページ:"
+
+#. #-#-#-#-#  lawyeria-lite.pot (Lawyeria Lite 1.1.6)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: index.php:12
+msgid "Blog"
+msgstr "ブログ"
 
 #: includes/customizer.php:377
 msgid "View PRO version"
@@ -236,10 +238,9 @@ msgstr "プロ版を表示"
 msgid "Leave a review ( it will help us )"
 msgstr "レビューを書く (お願いします)"
 
-#. Template Name of the plugin/theme
-#: index.php:12
-msgid "Blog"
-msgstr "ブログ"
+#: includes/customizer.php:376
+msgid "Documentation"
+msgstr "ドキュメンテーション"
 
 #: includes/customizer.php:304
 msgid "404 - Title:"
@@ -249,9 +250,9 @@ msgstr "404-タイトル:"
 msgid "404 - Content"
 msgstr "404-コンテンツ"
 
-#: includes/customizer.php:376
-msgid "Documentation"
-msgstr "ドキュメンテーション"
+#: includes/customizer.php:302
+msgid "404 Error"
+msgstr "404エラー"
 
 #: includes/customizer.php:103
 msgid "Lorem ipsum dolor sit amet, consectetur adipscing elit."
@@ -366,9 +367,9 @@ msgstr "<a href=\"https://themeisle.com/themes/lawyeria-attorney-lawyer-wordpres
 msgid "404 Page"
 msgstr "404ページ"
 
-#: includes/customizer.php:302
-msgid "404 Error"
-msgstr "404エラー"
+#: includes/customizer.php:97
+msgid "Front Page"
+msgstr "フロントページ"
 
 #: includes/customizer.php:67
 msgid "Logo:"
@@ -386,9 +387,9 @@ msgstr "お問い合わせのタイトル:"
 msgid "Contact telephone:"
 msgstr "お問い合わせの電話番号:"
 
-#: includes/customizer.php:97
-msgid "Front Page"
-msgstr "フロントページ"
+#: includes/customizer.php:59
+msgid "Header"
+msgstr "ヘッダー"
 
 #: includes/customizer.php:24
 msgid "ThemeIsle theme notes"
@@ -411,10 +412,6 @@ msgstr "無限の色"
 #: includes/customizer.php:42
 msgid " Check out the <a href=\"https://themeisle.com/themes/lawyeria-attorney-lawyer-wordpress-theme/\" target=\"_blank\" style=\"color:red;\">PRO version</a> <br>for full control over the color scheme !  "
 msgstr "<a href=\"https://themeisle.com/themes/lawyeria-attorney-lawyer-wordpress-theme/\" target=\"_blank\" style=\"color:red;\">PRO バージョン</a>の、配色のフルコントロールをチェックする。"
-
-#: includes/customizer.php:59
-msgid "Header"
-msgstr "ヘッダー"
 
 #: header.php:66
 msgid "Open Menu"
@@ -440,13 +437,13 @@ msgstr "あなたのコメントは承認待ちです。"
 msgid "Edit"
 msgstr "編集"
 
-#: functions.php:213
-msgid "<span>%s</span>"
-msgstr "<span>%s</span>"
-
 #: functions.php:216
 msgid "%1$s at %2$s"
 msgstr "%1$s %2$s"
+
+#: functions.php:213
+msgid "<span>%s</span>"
+msgstr "<span>%s</span>"
 
 #: functions.php:203
 msgid "(Edit)"
@@ -460,6 +457,14 @@ msgctxt "Roboto font: on or off"
 msgid "on"
 msgstr "on"
 
+#: functions.php:203
+msgid "Pingback:"
+msgstr "ピンバック:"
+
+#: functions.php:178
+msgid "Footer Sidebar"
+msgstr "フッターサイドバー"
+
 #: functions.php:158
 msgid "General Sidebar"
 msgstr "一般サイドバー"
@@ -468,21 +473,9 @@ msgstr "一般サイドバー"
 msgid "Use this sidebar to display widgets in your website, including posts and pages."
 msgstr "このサイドバーを使用して、Web サイトにウィジェットを表示します。投稿や固定ページを含みます。"
 
-#: functions.php:178
-msgid "Footer Sidebar"
-msgstr "フッターサイドバー"
-
 #: functions.php:179
 msgid "In this sidebar you cand add max. three widgets."
 msgstr "このサイドバーには最大3つのウィジェットが登録できます。"
-
-#: functions.php:203
-msgid "Pingback:"
-msgstr "ピンバック:"
-
-#: functions.php:27
-msgid "This menu will appear in header."
-msgstr "このメニューは、ヘッダーに表示されます。"
 
 #. Translators: If there are characters in your language that are not supported
 #. by Lora, translate this to 'off'. Do not translate into your own language.
@@ -491,6 +484,14 @@ msgctxt "Lato font: on or off"
 msgid "on"
 msgstr "on"
 
+#: functions.php:27
+msgid "This menu will appear in header."
+msgstr "このメニューは、ヘッダーに表示されます。"
+
+#: footer.php:19
+msgid "powered by"
+msgstr "Powered by "
+
 #: comments.php:85
 msgid "Leave a comment to %s"
 msgstr "%s にコメントを残す"
@@ -498,10 +499,6 @@ msgstr "%s にコメントを残す"
 #: footer.php:15
 msgid "The sidebar is not active."
 msgstr "サイドバーは無効です。"
-
-#: footer.php:19
-msgid "powered by"
-msgstr "Powered by "
 
 #: comments.php:85
 msgid "Leave a comment"
@@ -745,6 +742,10 @@ msgid "% comments"
 msgstr "%件のコメント"
 
 #: archive.php:47 index.php:32 page-blog.php:42 search.php:32 single.php:27
+msgid "One comment"
+msgstr "コメント"
+
+#: archive.php:47 index.php:32 page-blog.php:42 search.php:32 single.php:27
 msgid "Posted by:"
 msgstr "投稿者 :"
 
@@ -756,10 +757,6 @@ msgstr "カテゴリー:"
 msgid "No responses"
 msgstr "フィードバックはありません"
 
-#: archive.php:47 index.php:32 page-blog.php:42 search.php:32 single.php:27
-msgid "One comment"
-msgstr "コメント"
-
 #: archive.php:25
 msgid "Author: "
 msgstr "作成者:"
@@ -769,13 +766,13 @@ msgid "Category: "
 msgstr "カテゴリー:"
 
 #: archive.php:21
-msgid "Yearly Archives: %s."
-msgstr "年別アーカイブ: %s"
-
-#: archive.php:21
 msgctxt "yearly archives date format"
 msgid "Y"
 msgstr "Y年"
+
+#: archive.php:21
+msgid "Yearly Archives: %s."
+msgstr "年別アーカイブ: %s"
 
 #: archive.php:19
 msgctxt "monthly archives date format"
@@ -790,10 +787,6 @@ msgstr "月別アーカイブ: %s"
 msgid "Daily Archives: %s"
 msgstr "日別アーカイブ: %s"
 
-#. Theme URI of the plugin/theme
-msgid "https://themeisle.com/themes/lawyeria-lite/"
-msgstr "https://themeisle.com/themes/lawyeria-lite/"
-
 #. Author of the plugin/theme
 msgid "ThemeIsle"
 msgstr "ThemeIsle"
@@ -801,3 +794,7 @@ msgstr "ThemeIsle"
 #. Author URI of the plugin/theme
 msgid "https://themeisle.com"
 msgstr "https://themeisle.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/lawyeria-lite/"
+msgstr "https://themeisle.com/themes/lawyeria-lite/"

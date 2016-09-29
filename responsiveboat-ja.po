@@ -2,17 +2,13 @@
 # This file is distributed under the same license as the ResponsiveBoat package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-04-18 08:02+0900\n"
+"PO-Revision-Date: 2016-04-17 23:03:06+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 1.7.5\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
 "Project-Id-Version: ResponsiveBoat\n"
-"POT-Creation-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: ja\n"
 
 #. Theme Name of the plugin/theme
 msgid "ResponsiveBoat"
@@ -74,6 +70,10 @@ msgstr "他のボタン"
 msgid "Latest news"
 msgstr "最新ニュース"
 
+#: sections/big_title.php:88
+msgid "What's inside"
+msgstr "含まれるもの"
+
 #: sections/latest_news.php:88 sections/latest_news.php:178
 msgid "Read full article"
 msgstr "記事をすべて読む"
@@ -81,10 +81,6 @@ msgstr "記事をすべて読む"
 #: sections/testimonials.php:129
 msgid "Testimonials"
 msgstr "お客様の声"
-
-#: sections/big_title.php:88
-msgid "What's inside"
-msgstr "含まれるもの"
 
 #: sections/big_title.php:85
 msgid "Features"
@@ -102,13 +98,13 @@ msgstr "画像"
 msgid "Text"
 msgstr "テキスト"
 
-#: functions.php:96
-msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec massa enim. Aliquam viverra at est ullamcorper sollicitudin. Proin a leo sit amet nunc malesuada imperdiet pharetra ut eros.<br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec massa enim. Aliquam viverra at est ullamcorper sollicitudin. Proin a leo sit amet nunc malesuada imperdiet pharetra ut eros. <br><br>Mauris vel nunc at ipsum fermentum pellentesque quis ut massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas non adipiscing massa. Sed ut fringilla sapien. Cras sollicitudin, lectus sed tincidunt cursus, magna lectus vehicula augue, a lobortis dui orci et est."
-msgstr "吾輩は猫である。名前はまだ無い。<br><br>どこで生れたか頓と見當がつかぬ。何でも薄暗いじめじめした所でニヤーニヤー泣いて居た事丈は記憶して居る。吾輩はこゝで始めて人間といふものを見た。然もあとで聞くとそれは書生といふ人間中で一番獰悪な種族であつたさうだ。此書生といふのは時々我々を捕へて煮て食ふといふ話である。然し其當時は何といふ考もなかつたから別段恐しいとも思はなかつた。但彼の掌に載せられてスーと持ち上げられた時何だかフハフハした感じが有つた許りである。掌の上で少し落ち付いて書生の顔を見たのが所謂人間といふものゝ見始であらう。此時妙なものだと思つた感じが今でも殘つて居る。第一毛を以て装飾されべき筈の顔がつるつるして丸で薬罐だ。其後猫にも大分逢つたがこんな片輪には一度も出會はした事がない。"
-
 #: functions.php:90
 msgid "Subtitle"
 msgstr "サブタイトル"
+
+#: functions.php:96
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec massa enim. Aliquam viverra at est ullamcorper sollicitudin. Proin a leo sit amet nunc malesuada imperdiet pharetra ut eros.<br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec massa enim. Aliquam viverra at est ullamcorper sollicitudin. Proin a leo sit amet nunc malesuada imperdiet pharetra ut eros. <br><br>Mauris vel nunc at ipsum fermentum pellentesque quis ut massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas non adipiscing massa. Sed ut fringilla sapien. Cras sollicitudin, lectus sed tincidunt cursus, magna lectus vehicula augue, a lobortis dui orci et est."
+msgstr "吾輩は猫である。名前はまだ無い。<br><br>どこで生れたか頓と見當がつかぬ。何でも薄暗いじめじめした所でニヤーニヤー泣いて居た事丈は記憶して居る。吾輩はこゝで始めて人間といふものを見た。然もあとで聞くとそれは書生といふ人間中で一番獰悪な種族であつたさうだ。此書生といふのは時々我々を捕へて煮て食ふといふ話である。然し其當時は何といふ考もなかつたから別段恐しいとも思はなかつた。但彼の掌に載せられてスーと持ち上げられた時何だかフハフハした感じが有つた許りである。掌の上で少し落ち付いて書生の顔を見たのが所謂人間といふものゝ見始であらう。此時妙なものだと思つた感じが今でも殘つて居る。第一毛を以て装飾されべき筈の顔がつるつるして丸で薬罐だ。其後猫にも大分逢つたがこんな片輪には一度も出會はした事がない。"
 
 #: functions.php:88 sections/about_you.php:15
 msgid "Use this section to showcase important details about you."
@@ -117,6 +113,10 @@ msgstr "あなたのビジネスに関する重要な情報を提示するには
 #: functions.php:82
 msgid "Title"
 msgstr "タイトル"
+
+#: functions.php:42 functions.php:51
+msgid "Header Logo"
+msgstr "ヘッダーロゴ"
 
 #: functions.php:80 sections/about_you.php:8
 msgid "About you"
@@ -129,10 +129,6 @@ msgstr "当社についてセクションを非表示にします。"
 #: functions.php:63
 msgid "About you section"
 msgstr "当社についてセクション"
-
-#: functions.php:42 functions.php:51
-msgid "Header Logo"
-msgstr "ヘッダーロゴ"
 
 #. Theme URI of the plugin/theme
 msgid "http://themeisle.com/themes/responsiveboat-theme/"
